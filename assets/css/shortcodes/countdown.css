@@ -1,0 +1,62 @@
+/*------------------------------------------------------------------
+CountDown
+-------------------------------------------------------------------*/
+.countdown {
+  margin-bottom: 0
+}
+.countdown li {
+  display: inline-block;
+  text-align: center;
+}
+.countdown li+li {
+  margin-left: 50px;
+}
+.countdown li p{
+    text-transform: uppercase;
+    margin: 0;
+}
+.countdown li span {
+  font-size: 40px;
+  font-weight: 900;
+  color: #03a9f4;
+}
+
+@media screen and (max-width: 650px) {
+    .countdown li+li {
+      margin-left: 10px;
+    }
+}
+
+
+
+/*comingsoon page one*/
+.comingsoon-wrapper .logo {
+    margin-bottom: 50px;
+}
+.comingsoon-wrapper .countdown li {
+  min-width: 110px;
+}
+.comingsoon-wrapper .countdown li+li {
+  margin-left: 40px;
+}
+.comingsoon-wrapper .countdown li span {
+    font-size: 60px;
+    line-height: 70px;
+}
+.comingsoon-contact .input-field {
+    margin-top: 20px;
+}
+
+.white-form input[type=email],
+.white-form .input-field label,
+.white-form input[type=email]:focus:not([readonly]) + label {
+    color: #fff;
+}
+.white-form input[type=email] {
+    border-bottom: 1px solid #fff;
+}
+ 
+.white-form input[type=email]:focus:not([readonly]) {
+    border-bottom: 1px solid #fff;
+    box-shadow: 0 1px 0 0 #fff; 
+}
