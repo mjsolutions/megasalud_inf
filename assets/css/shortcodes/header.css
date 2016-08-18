@@ -106,7 +106,7 @@ Header
 
 .tt-nav {
     width: 100%;
-    height: 100px;
+    /*height: 100px;*/
     z-index: 1000;
     position: relative;
 }
@@ -136,13 +136,13 @@ Header
 
 
 .tt-nav .logo-brand img {
-    height: 40px;
+    height: 70px;
     float: left;
 }
 
 .tt-nav.sticky .logo-brand img, 
 .tt-nav.sticky .logo-brand img.retina  {
-    height: 30px !important;
+    height: 50px !important;
 }
 
 
@@ -291,7 +291,7 @@ header.sticky .menuzord-menu>li>a,
     font-size: 24px;
     font-weight: 700;
     cursor: pointer;
-    margin: 27px 30px 0 0;
+    margin: 5px 0 0 0;
     line-height: 100px;
 }
 .tt-nav.sticky .logo-brand {
@@ -318,7 +318,7 @@ header.sticky .menuzord-menu>li>a,
 .menuzord-menu>li>a {
     display: inline-block;
     text-decoration: none;
-    font-size: 16px;
+    font-size: 12px;
     font-weight: normal;
     outline: 0;
     -webkit-tap-highlight-color: transparent
@@ -662,7 +662,7 @@ Nav link boxed
 
 
 .nav-boxed-color .menuzord-menu > li > a {
-    margin: 30px 0;
+    margin: 20px 0 10px 0;
 }
 
 .nav-boxed-color .menuzord-menu>li>a,

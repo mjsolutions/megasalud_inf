@@ -1,9 +1,3 @@
-/*
-Template Name: Matrox
-Author: TrendyTheme
-Version: 1.2
-*/
-
 ;(function () {
 
     "use strict"; // use strict to start
