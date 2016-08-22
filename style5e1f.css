@@ -713,7 +713,7 @@ textarea.materialize-textarea {
     color: #03a9f4 !important; /*theme primary color*/
 }
 .brand-bg {
-    background-color: #03a9f4 !important; /*theme primary background color*/
+    background-color: #00bee2 !important; /*theme primary background color*/ /*modified*/
 }
 
 .brand-bg.darken-2 {

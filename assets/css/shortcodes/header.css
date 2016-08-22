@@ -675,7 +675,7 @@ Nav link boxed
 .nav-boxed-color .menuzord .menuzord-menu>li:hover>a,
 .nav-boxed-color .menuzord .menuzord-menu>li:hover>a>i {
     color: #fff !important;
-    background: #03a9f4;
+    background: #00bee2;/*modified*/
 }
 
 .brand-header .menuzord .menuzord-menu>li.active>a,
