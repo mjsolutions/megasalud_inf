@@ -30,6 +30,7 @@
     15.0 - device mockup carousel
     16.0 - Search Style
     17.0 - Preloader
+    18.0 - Customs
 
 -------------------------------------
 [ END CSS TABLE CONTENT ]
@@ -2259,6 +2260,12 @@ KEY FRAME
     background:#03a9f4;
 }
 
+/* ================= Cusoms ==================== */
+
+.col-center {
+    float: none;
+    margin: 0 auto;
+}
 
 
 
