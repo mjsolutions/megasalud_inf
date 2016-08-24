@@ -1,3 +1,6 @@
+<!--  favicon -->
+<link rel="shortcut icon" href="assets/img/ico/favicon.ico">
+<!--  Google fonts -->
 <link href='https://fonts.googleapis.com/css?family=Raleway:400,300,500,700,900' rel='stylesheet' type='text/css'>
 <!-- FontAwesome CSS -->
 <link href="assets/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
@@ -54,7 +57,7 @@
 					<ul class="menuzord-menu pull-right">
 						<li class="active"><a href="javascript:void(0)">Megasalud</a>
 							<ul class="dropdown">
-								<li><a href="#">¿Quiénes Somos?</a></li>
+								<li><a href="quienes-somos.php">¿Quiénes Somos?</a></li>
 								<li><a href="#">Red de consultorios</a></li>
 								<li><a href="#">Médicos</a></li>								
 							</ul>
