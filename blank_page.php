@@ -19,19 +19,6 @@
 
   <?php include ('footer.php'); ?>
 
-  <!-- Preloader -->
-  <div id="preloader">
-    <div class="preloader-position"> 
-      <img src="assets/img/logo-megasalud.jpg" alt="logo" >
-      <div class="progress">
-        <div class="indeterminate"></div>
-      </div>
-    </div>
-  </div>
-  <!-- End Preloader -->
-
-
-
   <!-- jQuery -->
   <script src="assets/js/jquery-2.1.3.min.js"></script>
   <script src="assets/bootstrap/js/bootstrap.min.js"></script>

@@ -9,7 +9,7 @@
       <div class="row">
         <div class="col-md-12 text-center">
           <div class="footer-logo">
-            <img src="assets/img/logo-white.png" alt="">
+            <img src="assets/img/Logotipo-megasalud-blanco.svg" alt="">
           </div>
         </div><!-- /.col-md-12 -->
       </div><!-- /.row -->
@@ -21,17 +21,11 @@
       <hr class="mb-20">
       <div class="row">
         <div class="col-md-6">
-          <span class="copy-text">Copyright &copy; 2016 <a href="#">Materitx</a> &nbsp; | &nbsp;  All Rights Reserved &nbsp; | &nbsp;  Designed By <a href="#">TrendyTheme</a></span>
+          <span class="copy-text">Copyright &copy; <?php echo date('Y') ?> <a href="#">Megasalud Internacional</a> &nbsp; | &nbsp;  Todos los derechos reservados &nbsp; | &nbsp;  Designed By <a href="#"></a></span>
         </div><!-- /.col-md-6 -->
         <div class="col-md-6">
           <ul class="social-link tt-animate ltr">
             <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-            <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-            <li><a href="#"><i class="fa fa-tumblr"></i></a></li>
-            <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-            <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
-            <li><a href="#"><i class="fa fa-instagram"></i></a></li>
-            <li><a href="#"><i class="fa fa-rss"></i></a></li>
           </ul>
         </div><!-- /.col-md-6 -->
       </div><!-- /.row -->
@@ -39,3 +33,13 @@
   </div><!-- /.secondary-footer -->
 </footer>
         <!--footer 3 end-->
+  <!-- Preloader -->
+  <div id="preloader">
+    <div class="preloader-position"> 
+      <img src="assets/img/logo-colored.png" alt="logo" >
+      <div class="progress">
+        <div class="indeterminate"></div>
+      </div>
+    </div>
+  </div>
+  <!-- End Preloader -->

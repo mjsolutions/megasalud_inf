@@ -48,9 +48,11 @@
 				<div id="matrox-menu" class="menuzord">
 
 					<!--logo start-->
-					<a href="index-2.html" class="logo-brand">
-						<img src="assets/img/logo-megasalud.jpg" alt="Megasalud"/>
-					</a>
+					<div class="col-md-2">
+						<a href="index-2.html" class="logo-brand">
+							<img src="assets/img/Logotipo-megasalud.svg" class="img-responsive" alt="Megasalud"/>
+						</a>
+					</div>
 					<!--logo end-->
 
 					<!--mega menu start-->
