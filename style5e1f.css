@@ -68,7 +68,7 @@ body {
 /* Link style
 /* ------------------------------ */
 a {
-    color: #ed145b;
+    color: #03a9f4;/*ed145b*/
 }
 a,
 a > * {
@@ -78,7 +78,7 @@ a > * {
 }
 a:focus,
 a:hover {
-    color: #03a9f4;
+    color: #ed145b;/*03a9f4*/
     outline: none;
     text-decoration: none;
 }
@@ -500,6 +500,9 @@ textarea.materialize-textarea {
 .padding-top-120 {
     padding-top: 120px;
 }
+.padding-top-140 {
+    padding-top: 140px;
+}
 .padding-top-160 {
     padding-top: 160px;
 }
@@ -543,6 +546,9 @@ textarea.materialize-textarea {
 }
 .padding-bottom-120 {
     padding-bottom: 120px;
+}
+.padding-bottom-150 {
+    padding-bottom: 150px;
 }
 .padding-bottom-190 {
     padding-bottom: 190px;

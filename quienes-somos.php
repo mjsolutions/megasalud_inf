@@ -11,12 +11,30 @@
 
   <title>¿Quiénes somos?</title>
 
-  <?php include ('head.php') ?>        
+  <?php include ('head.php') ?>    
+
+  <!--page title start-->
+  <section class="page-title parallax-bg page-title-bg overlay dark-5 padding-top-140 padding-bottom-150" data-stellar-background-ratio="0.5">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <h2 class="white-text">¿QUIÉNES SOMOS?</h2>
+          <span class="white-text">Conoce un poco de nosotros</span>
+          <ol class="breadcrumb">
+            <li><a href="#">Home</a></li>
+            <!-- <li><a href="#">Shortcodes</a></li> -->
+            <li class="active">¿Quiénes somos?</li>
+          </ol>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!--page title end-->    
 
   <section class="section-padding">
     <div class="container">
 
-      <h2 class="font-30 text-medium mb-30">¿QUIÉNES SOMOS?</h2>
+     <!--  <h2 class="font-30 text-medium mb-30">¿QUIÉNES SOMOS?</h2> -->
       <div class="row">
         <div class="col-md-7">
 
@@ -33,17 +51,14 @@
         <div class="col-md-5">
           <div class="gallery-thumb">
             <ul class="slides">
-              <li data-thumb="assets/img/blog/blog-18.jpg">
-                <img src="assets/img/blog/blog-18.jpg" alt="image">
+              <li data-thumb="assets/img/megasalud/logo-madera.jpg">
+                <img src="assets/img/megasalud/logo-madera.jpg" alt="image">
               </li>
-              <li data-thumb="assets/img/blog/blog-15.jpg">
-                <img src="assets/img/blog/blog-15.jpg" alt="image">
+              <li data-thumb="assets/img/megasalud/medico.jpg">
+                <img src="assets/img/megasalud/medico.jpg" alt="image">
               </li>
-              <li data-thumb="assets/img/blog/blog-10.jpg">
-                <img src="assets/img/blog/blog-10.jpg" alt="image">
-              </li>
-              <li data-thumb="assets/img/blog/blog-19.jpg">
-                <img src="assets/img/blog/blog-19.jpg" alt="image">
+              <li data-thumb="assets/img/megasalud/logo-mega-madera.jpg">
+                <img src="assets/img/megasalud/logo-mega-madera.jpg" alt="image">
               </li>
             </ul>
           </div><!-- /.gallery-thumb -->
@@ -54,11 +69,11 @@
 
 
 
-  <section class="padding-top-90 padding-bottom-70 banner-wrapper parallax-bg banner-7 overlay light-6" data-stellar-background-ratio="0.1">
+  <section class="padding-top-90 padding-bottom-70 banner-wrapper parallax-bg banner-7 overlay dark-6" data-stellar-background-ratio="0.1">
     <div class="container">
 
       <div class="text-center mb-80">
-        <h1 class=""><i>¡Tu salud en buenas manos!</i></h1>
+        <h1 class="white-text"><i>¡Tu salud en buenas manos!</i></h1>
       </div>
 
     </div><!-- /.container -->

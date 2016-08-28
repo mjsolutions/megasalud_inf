@@ -13,6 +13,24 @@
 
   <?php include ('head.php') ?>
 
+  <!--page title start-->
+  <section class="page-title parallax-bg page-title-bg overlay dark-5 padding-top-140 padding-bottom-150" data-stellar-background-ratio="0.5">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <h2 class="white-text">¿QUIÉNES SOMOS?</h2>
+          <span class="white-text">Conoce un poco de nosotros</span>
+          <ol class="breadcrumb">
+            <li><a href="#">Home</a></li>
+            <!-- <li><a href="#">Shortcodes</a></li> -->
+            <li class="active">¿Quiénes somos?</li>
+          </ol>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!--page title end-->
+
   <!-- Content init -->
 
   <!-- Content end -->
