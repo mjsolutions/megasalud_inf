@@ -41,75 +41,50 @@
       </div>
 
 
-      <ul class="featured plus-box grid-3 wow fadeInUp" data-wow-delay=".3s">
+      <ul class="featured plus-box grid-2 wow fadeInUp" data-wow-delay=".3s">
         <li>
           <div class="featured-item">
-            <div class="icon">
-              <i class="material-icons">&#xE32A;</i>
-            </div>
+
             <div class="desc">
-              <h2>Fully Responsive</h2>
-              <p>Porttitor communicate pandemic data rather than enabled niche markets neque pulvinar vitae than enabled niche.</p>
-            </div>
-          </div><!-- /.featured-item -->
-        </li>
-        <li>
-          <div class="featured-item">
-            <div class="icon">
-              <i class="material-icons">&#xE851;</i>
-            </div>
-            <div class="desc">
-              <h2>Modern Design</h2>
-              <p>Porttitor communicate pandemic data rather than enabled niche markets neque pulvinar vitae than enabled niche.</p>
-            </div>
-          </div><!-- /.featured-item -->
-        </li>
-        <li>
-          <div class="featured-item">
-            <div class="icon">
-              <i class="material-icons">&#xE8AF;</i>
-            </div>
-            <div class="desc">
-              <h2>Clean Code</h2>
-              <p>Porttitor communicate pandemic data rather than enabled niche markets neque pulvinar vitae than enabled niche.</p>
-            </div>
-          </div><!-- /.featured-item -->
-        </li>
-        <li>
-          <div class="featured-item">
-            <div class="icon">
-              <i class="material-icons">&#xE8CB;</i>
-            </div>
-            <div class="desc">
-              <h2>Extra Elements</h2>
-              <p>Porttitor communicate pandemic data rather than enabled niche markets neque pulvinar vitae than enabled niche.</p>
-            </div>
-          </div><!-- /.featured-item -->
-        </li>
-        <li>
-          <div class="featured-item">
-            <div class="icon">
-              <i class="material-icons">&#xE02C;</i>
-            </div>
-            <div class="desc">
-              <h2>Daily Update</h2>
-              <p>Porttitor communicate pandemic data rather than enabled niche markets neque pulvinar vitae than enabled niche.</p>
-            </div>
-          </div><!-- /.featured-item -->
-        </li>
-        <li>
-          <div class="featured-item">
-            <div class="icon">
-              <i class="material-icons">&#xE0BE;</i>
-            </div>
-            <div class="desc">
-              <h2>24/7 Support</h2>
-              <p>Porttitor communicate pandemic data rather than enabled niche markets neque pulvinar vitae than enabled niche.</p>
+              <h2>Morelia <br><small>Oficina Central</small></h2>
+              <div class="divider col-md-4 col-center mb-30"></div>
+              <p>Revolucion 554</p>
+              <p>Col. Centro</p>
+              <p>Morelia, Michoacán, México</p>
+              <p><strong>Telèfonos</strong></p>
+              <p>(443) 312 10 81</p>
+              <p>(443) 312 11 01</p>
+              <p><strong>Horario de Atención</strong></p>
+              <p>Lunes a Viernes 9:00 a 19:00 hrs.</p>
+              <p>Sábado: 10:00 a 14:00 hrs.</p>
             </div>
           </div><!-- /.featured-item -->
         </li>
 
+        <li>
+          <div class="featured-item">
+            <div class="desc">
+              <h2>Ciudad <br>de Mexico</h2>
+              <div class="divider col-md-4 col-center mb-30"></div>
+              <p>Río de la plata 21, planta baja</p>
+              <p>Col. Cuahutemoc</p>
+              <p>Del. Cuahutemoc </p>
+              <p><strong>Telèfonos</strong></p>
+              <p>(557) 021 90 92</p>
+              <p>(552) 115 85 72</p>
+              <p><strong>Horario de Atención</strong></p>
+              <p>Lunes a Viernes 9:00 a 19:00 hrs.</p>
+              <p>Sábado: 10:00 a 14:00 hrs.</p>
+            </div>
+          </div><!-- /.featured-item -->
+        </li>
+        
       </ul>
+
+      <div class="text-center mtb-50 wow fadeInUp" data-wow-delay=".4s">
+        <p>Se pueden atender casos especiales fuera de este horario, previa cita.</p>
+        <p>Si no tenemos visitas programadas a tu ciudad, con un grupo de 15 pacientes podemos agendar una fecha especial. <a href="">Contáctanos</a> para más información.</p>
+      </div>
 
     </div><!-- /.container -->
   </section>
@@ -136,10 +111,10 @@
   <script src="assets/js/scriptsc81e.js?2"></script>
   <script src="assets/js/wow.min.js"></script>
   <script>
-  new WOW({
-    mobile:  false
-  }).init();
-</script>
+    new WOW({
+      mobile:  false
+    }).init();
+  </script>
 
 </body>
 

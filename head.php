@@ -21,13 +21,13 @@
 <link href="assets/css/shortcodes/shortcodes5e1f.css?v=2" rel="stylesheet">
 <!-- Style CSS -->
 <link href="style5e1f.css?v=2" rel="stylesheet">
-
+<!-- animate CSS -->
+<link href="assets/css/animate.min.css" rel="stylesheet">
 <!-- RS5.0 Main Stylesheet -->
 <link rel="stylesheet" type="text/css" href="assets/revolution/css/settings.css">
 <!-- RS5.0 Layers and Navigation Styles -->
 <link rel="stylesheet" type="text/css" href="assets/revolution/css/layers.css">
 <link rel="stylesheet" type="text/css" href="assets/revolution/css/navigation.css">
-<link href="assets/css/animate.min.css" rel="stylesheet">
 
 <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
 <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->

@@ -2273,5 +2273,10 @@ KEY FRAME
     margin: 0 auto;
 }
 
+.featured.plus-box.wow li:after {
+    border-bottom: none;
+}
 
-
+.divider {
+    border-bottom: 1px solid #ccc;
+}
