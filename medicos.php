@@ -10,8 +10,6 @@
   <meta name="author" content="Megasalud">
 
   <title>Médicos</title>
-  <!-- animate CSS -->
-  <link href="assets/css/animate.min.css" rel="stylesheet">
   <?php include ('head.php') ?>
 
   <!--page title start-->

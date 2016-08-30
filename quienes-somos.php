@@ -10,8 +10,7 @@
   <meta name="author" content="megasalud">
 
   <title>¿Quiénes somos?</title>
-  <!-- animate CSS -->
-  <link href="assets/css/animate.min.css" rel="stylesheet">
+  
   <?php include ('head.php') ?>    
 
   <!--page title start-->
@@ -179,13 +178,13 @@
 <script src="assets/js/smoothscroll.min.js"></script>
 <script src="assets/js/imagesloaded.js"></script>
 <script src="assets/js/jquery.stellar.min.js"></script>
-<script src="assets/js/wow.min.js"></script>
 <script src="assets/js/jquery.inview.min.js"></script>
 <script src="assets/js/bootstrap-tabcollapse.min.js"></script>
 <script src="assets/owl.carousel/owl.carousel.min.js"></script>
 <script src="assets/flexSlider/jquery.flexslider-min.js"></script>
 <script src="assets/magnific-popup/jquery.magnific-popup.min.js"></script>
 <script src="assets/js/scriptsc81e.js?2"></script>
+<script src="assets/js/wow.min.js"></script>
 <script>
   new WOW({
     mobile:  false

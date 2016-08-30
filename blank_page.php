@@ -46,6 +46,7 @@
   <script src="assets/js/smoothscroll.min.js"></script>
   <script src="assets/js/imagesloaded.js"></script>
   <script src="assets/js/jquery.stellar.min.js"></script>
+  <script src="assets/js/wow.min.js"></script>
   <script src="assets/js/jquery.inview.min.js"></script>
   <script src="assets/js/jquery.shuffle.min.js"></script>
   <script src="assets/js/menuzord.js"></script>
@@ -54,7 +55,11 @@
   <script src="assets/flexSlider/jquery.flexslider-min.js"></script>
   <script src="assets/magnific-popup/jquery.magnific-popup.min.js"></script>
   <script src="assets/js/scriptsc81e.js?2"></script>
-
+  <script>
+  new WOW({
+    mobile:  false
+  }).init();
+</script>
 </body>
 
 </html>

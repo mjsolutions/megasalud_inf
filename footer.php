@@ -13,6 +13,15 @@
           </div>
         </div><!-- /.col-md-12 -->
       </div><!-- /.row -->
+
+      <div class="row mt-40">
+        <div class="col-md-8">
+          <h2 class="section-title white-text ptb-50 text-center">¡Tu Salud <br> en Buenas Manos!</h2>
+        </div>
+        <div class="col-md-4 widget">
+          <div class="fb-page" data-href="https://www.facebook.com/MegasaludInt" data-tabs="timeline" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="false"><blockquote cite="https://www.facebook.com/MegasaludInt" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/MegasaludInt">Megasalud Internacional</a></blockquote></div>
+        </div>
+      </div><!-- /.row -->
     </div><!-- /.container -->
   </div><!-- /.primary-footer -->
 
