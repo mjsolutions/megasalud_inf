@@ -61,7 +61,7 @@
 							<ul class="dropdown">
 								<li><a href="quienes-somos.php">¿Quiénes Somos?</a></li>
 								<li><a href="#">Red de consultorios</a></li>
-								<li><a href="#">Médicos</a></li>								
+								<li><a href="medicos.php">Médicos</a></li>								
 							</ul>
 						</li>
 

@@ -32,16 +32,27 @@
     </div><!-- /.container -->
   </div><!-- /.secondary-footer -->
 </footer>
-        <!--footer 3 end-->
-  <!-- Preloader -->
-  <div id="preloader">
-    <div class="preloader-position"> 
-      <div class="col-md-3 col-sm-5 col-xs-6 col-center">
-        <img src="assets/img/Logotipo-megasalud.svg" class="img-responsive" alt="logo" >
-      </div>
-      <div class="progress">
-        <div class="indeterminate"></div>
-      </div>
+<!--footer 3 end-->
+<!-- Preloader -->
+<div id="preloader">
+  <div class="preloader-position"> 
+    <div class="col-md-3 col-sm-5 col-xs-6 col-center">
+      <img src="assets/img/Logotipo-megasalud.svg" class="img-responsive" alt="logo" >
+    </div>
+    <div class="progress">
+      <div class="indeterminate"></div>
     </div>
   </div>
-  <!-- End Preloader -->
+</div>
+<!-- End Preloader -->
+
+<!-- Translate -->
+<div id="google_translate_element" style="float:right;"></div><script>
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({
+    pageLanguage: 'es'
+  }, 'google_translate_element');
+}
+</script>
+<script src="http://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+<!-- End Translate -->
