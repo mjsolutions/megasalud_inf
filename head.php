@@ -140,7 +140,7 @@
 
 						<li><a href="javascript:void(0)">Estilo de Vida</a>
 							<ul class="dropdown">
-								<li><a href="#">Estilo de vida</a></li>
+								<li><a href="estilo-de-vida.php">Estilo de vida</a></li>
 								<li><a href="#">Alimentación</a></li>
 								<li><a href="#">Ejercicio</a></li>								
 								<li><a href="#">Descanso</a></li>								
