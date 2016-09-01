@@ -21,7 +21,7 @@
           <h2 class="white-text">ESTILO DE VIDA</h2>
           <span class="white-text">Equilibrio fisico y emocional</span>
           <ol class="breadcrumb">
-            <li><a href="#">Home</a></li>
+            <li><a href="index.php">Home</a></li>
             <!-- <li><a href="#">Shortcodes</a></li> -->
             <li class="active">Estilo de vida</li>
           </ol>

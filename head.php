@@ -60,7 +60,7 @@
 
 					<!--logo start-->
 					<div class="col-md-2">
-						<a href="index-2.html" class="logo-brand">
+						<a href="index.php" class="logo-brand">
 							<img src="assets/img/Logotipo-megasalud.svg" class="img-responsive" alt="Megasalud"/>
 						</a>
 					</div>
@@ -82,8 +82,8 @@
 									<div class="col3">
 										<!-- <h2>Menu Type Page</h2> -->
 										<ul class="list-unstyled clearfix">
-											<li><a href="">Enfermedades Autoinmunes</a></li>
-											<li><a href="">Diabetes</a></li>
+											<li><a href="enfermedades.php">Enfermedades Autoinmunes</a></li>
+											<li><a href="diabetes.php">Diabetes</a></li>
 											<li><a href="">Cáncer</a></li>
 										</ul>
 									</div>
@@ -141,7 +141,7 @@
 						<li><a href="javascript:void(0)">Estilo de Vida</a>
 							<ul class="dropdown">
 								<li><a href="estilo-de-vida.php">Estilo de vida</a></li>
-								<li><a href="#">Alimentación</a></li>
+								<li><a href="alimentacion.php">Alimentación</a></li>
 								<li><a href="#">Ejercicio</a></li>								
 								<li><a href="#">Descanso</a></li>								
 								<li><a href="#">Tranquilidad</a></li>							
@@ -158,7 +158,7 @@
 							</ul>
 						</li>
 
-						<li><a href="javascript:void(0)">Contacto</a>
+						<li><a href="contacto.php">Contacto</a>
 
 						</li>
 					</ul>

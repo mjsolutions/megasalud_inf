@@ -20,7 +20,7 @@
           <h2 class="white-text">MÉDICOS</h2>
           <span class="white-text">Forma parte de nuestro equipo de especialistas</span>
           <ol class="breadcrumb">
-            <li><a href="#">Home</a></li>
+            <li><a href="index.php">Home</a></li>
             <!-- <li><a href="#">Shortcodes</a></li> -->
             <li class="active">Médicos</li>
           </ol>
@@ -44,7 +44,7 @@
 
           <p>En Megasalud contamos con capacitación constante a través de eventos presenciales (cursos, diplomados, etc.) y múltiples recursos en línea, hoy tu puedes ser parte fundamental de este gran equipo y contribuir a mejorar la salud de muchos pacientes. ¿Te interesa unirte a nuestra red de médicos especializados certificados en el tratamiento de enfermedades autoinmunes?</p>
 
-          <a class="waves-effect waves-light btn green"><i class="material-icons left">&#xE876;</i>Ser parte de Megasalud</a>
+          <a class="waves-effect waves-light btn green" href=""><i class="material-icons left">&#xE876;</i>Ser parte de Megasalud</a>
         </div><!-- /.col-md-7 -->
 
         <div class="col-md-5 wow fadeInUp" data-wow-delay=".2s">

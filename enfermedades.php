@@ -18,7 +18,7 @@
       <div class="row">
         <div class="col-md-12">
           <h2 class="white-text">ENFERMEDADES AUTOINMUNES</h2>
-          <span class="white-text">Conoce un poco de nosotros</span>
+          <span class="white-text">Conoce todo lo que nuestros tratamientos pueden curar</span>
           <ol class="breadcrumb">
             <li><a href="#">Home</a></li>
             <!-- <li><a href="#">Shortcodes</a></li> -->

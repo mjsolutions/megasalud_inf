@@ -21,7 +21,7 @@
           <h2 class="white-text"> RED DE CONSULTORIOS</h2>
           <span class="white-text">Donde encontrarnos</span>
           <ol class="breadcrumb">
-            <li><a href="#">Home</a></li>
+            <li><a href="index.php">Home</a></li>
             <!-- <li><a href="#">Shortcodes</a></li> -->
             <li class="active">Red de Consultorios</li>
           </ol>

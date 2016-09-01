@@ -20,9 +20,9 @@
           <h2 class="white-text">DIABETES MELLITUS</h2>
           <!-- <span class="white-text">Conoce un poco de nosotros</span> -->
           <ol class="breadcrumb">
-            <li><a href="#">Home</a></li>
+            <li><a href="index.php">Home</a></li>
             <!-- <li><a href="#">Shortcodes</a></li> -->
-            <li><a href="#">Enfermedades autoinmunes</a></li>
+            <li><a href="enfermedades.php">Enfermedades autoinmunes</a></li>
             <li class="active">Diabetes</li>
           </ol>
         </div>
@@ -35,7 +35,7 @@
     <div class="container">
 
       <h2 class="font-30 text-medium mb-30">Diabetes Mellitus</h2>
-      <div class="row">
+      <div class="row wow fadeInUp" data-wow-delay=".2s">
         <div class="col-md-12">
           <p>La Diabetes Mellitus es una enfermedad metabólica en la que se ve comprometida la secreción de insulina por el páncreas y/o resistencia de las células que captan la insulina (receptores insulinicos) ambas situaciones pueden ser totales o parciales siendo consecuentemente un conjunto de síndromes, dicha enfermedad se caracteriza por que el paciente presenta elevaciones de la glucosa y su cuerpo no tiene la capacidad para disminuir la glucosa que circula y que es ingerida aunque dicha enfermedad puede causar de la misma manera alteraciones en las grasa y las proteínas así como el colesterol dichas alteraciones son secundarias al déficit relativo o absoluto de la insulina y desafortunadamente este tipo de pacientes se presentan con complicaciones crónicas muy frecuentemente.</p>
           
@@ -56,6 +56,7 @@
 <script src="assets/js/smoothscroll.min.js"></script>
 <script src="assets/js/imagesloaded.js"></script>
 <script src="assets/js/jquery.stellar.min.js"></script>
+<script src="assets/js/wow.min.js"></script>
 <script src="assets/js/jquery.inview.min.js"></script>
 <script src="assets/js/jquery.shuffle.min.js"></script>
 <script src="assets/js/menuzord.js"></script>
@@ -64,7 +65,11 @@
 <script src="assets/flexSlider/jquery.flexslider-min.js"></script>
 <script src="assets/magnific-popup/jquery.magnific-popup.min.js"></script>
 <script src="assets/js/scriptsc81e.js?2"></script>
-
+<script>
+  new WOW({
+    mobile:  false
+  }).init();
+</script>
 </body>
 
 </html>
