@@ -122,14 +122,14 @@
 								<li><a href="hemovacuna.php">Hemovacuna</a></li>
 								<li><a href="reyshen.php">Reyshen</a></li>								
 								<li><a href="glicoxil.php">Glicoxil</a></li>								
-								<li><a href="#">Testimonios</a></li>								
-								<li><a href="#">Animación</a></li>								
+								<!-- <li><a href="#">Testimonios</a></li>								 -->
+								<!-- <li><a href="#">Animación</a></li>								 -->
 							</ul>
 						</li>
 
 						<li><a href="javascript:void(0)">Ganoderma Lucidum</a>
 							<ul class="dropdown">
-								<li><a href="#">¿Qué es?</a></li>
+								<li><a href="ganoderma.php">¿Qué es?</a></li>
 								<li><a href="#">Orígenes</a></li>
 								<li><a href="#">Beneficios</a></li>								
 								<li><a href="#">Composición química</a></li>								
@@ -168,4 +168,4 @@
 			</div>
 		</div>
 	</header>
-<!--header end-->
+<!--header end -->
