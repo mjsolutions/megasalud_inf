@@ -120,7 +120,7 @@
 							<ul class="dropdown">
 								<li><a href="tratamiento.php">Método Vranfcua</a></li>
 								<li><a href="hemovacuna.php">Hemovacuna</a></li>
-								<li><a href="#">Reyshen</a></li>								
+								<li><a href="reyshen.php">Reyshen</a></li>								
 								<li><a href="#">Glicoxil</a></li>								
 								<li><a href="#">Testimonios</a></li>								
 								<li><a href="#">Animación</a></li>								
