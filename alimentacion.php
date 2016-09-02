@@ -19,7 +19,7 @@
       <div class="row">
         <div class="col-md-12">
           <h2 class="white-text">ALIMENTACIÓN</h2>
-          <span class="white-text">Conoce un poco de nosotros</span>
+          <span class="white-text">¿Cómo mejorar mi alimentación?</span>
           <ol class="breadcrumb">
             <li><a href="index.php">Home</a></li>
             <!-- <li><a href="#">Shortcodes</a></li> -->

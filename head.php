@@ -143,8 +143,8 @@
 								<li><a href="estilo-de-vida.php">Estilo de vida</a></li>
 								<li><a href="alimentacion.php">Alimentación</a></li>
 								<li><a href="ejercicio.php">Ejercicio</a></li>								
-								<li><a href="#">Descanso</a></li>								
-								<li><a href="#">Tranquilidad</a></li>							
+								<li><a href="descanso.php">Descanso</a></li>								
+								<li><a href="tranquilidad.php">Tranquilidad</a></li>							
 							</ul>
 						</li>
 

@@ -119,19 +119,19 @@
       <div class="col-md-12 wow fadeInUp" data-wow-delay=".3s">
 
         <ul>
-          <li><i class="material-icons left txt-blue">1.</i> Selecciona una actividad que te resulte práctica de realizar, que se ajuste a tu estilo de vida y horario</li>
-          <li><i class="material-icons left txt-blue">2.</i> Si padeces alguna lesión o enfermedad, consulta a tu médico sobre las opciones más recomendables para tu caso</li>
-          <li><i class="material-icons left txt-blue">3</i> Investiga qué actividad o deporte te provee los beneficios que más necesitas (hay una gran variedad de opciones)</li>
-          <li><i class="material-icons left txt-blue">4.</i> Si decides hacerlo por tu cuenta, asesórate de cómo realizar el ejercicio (distancias a recorrer, tiempos, cantidad de peso a levantar, períodos, etc.)</li>
-          <li><i class="material-icons left txt-blue">5.</i> Toma en consideración que prácticamente todos los ejercicios requieren un calentamiento previo</li>
-          <li><i class="material-icons left txt-blue">6.</i> Usa la ropa o accesorios adecuados (gorra, casco, bloqueador solar, etc.)</li>
-          <li><i class="material-icons left txt-blue">7.</i> Establece una rutina, destina un horario y lugar fijo para realizarlo</li>
-          <li><i class="material-icons left txt-blue">8.</i>  Si no has realizado ejercicio últimamente, hay que hacerlo de manera gradual y progresiva para evitar lesiones, sumando intensidad en la medida que no sienta un agotamiento extremo</li>
-          <li><i class="material-icons left txt-blue">9.</i> Parar un ejercicio inmediatamente después de sentir algún dolor o hinchazón</li>
-          <li><i class="material-icons left txt-blue">10.</i> Si puedes realizar el ejercicio en compañía de alguien, les será más motivante a ambos </li>
-          <li><i class="material-icons left txt-blue">11.</i> Sólo la constancia da resultados, apégate a la rutina que hayas definido lo más posible</li>
-          <li><i class="material-icons left txt-blue">12.</i> Hidrátate con agua o isotónicos, no esperar a estar sediento</li>
-          <li><i class="material-icons left txt-blue">13.</i> Aliméntate adecuadamente, el ejercicio demanda mayores cantidades de energía</li>
+          <li>1. Selecciona una actividad que te resulte práctica de realizar, que se ajuste a tu estilo de vida y horario</li>
+          <li>2. Si padeces alguna lesión o enfermedad, consulta a tu médico sobre las opciones más recomendables para tu caso</li>
+          <li>3. Investiga qué actividad o deporte te provee los beneficios que más necesitas (hay una gran variedad de opciones)</li>
+          <li>4. Si decides hacerlo por tu cuenta, asesórate de cómo realizar el ejercicio (distancias a recorrer, tiempos, cantidad de peso a levantar, períodos, etc.)</li>
+          <li>5. Toma en consideración que prácticamente todos los ejercicios requieren un calentamiento previo</li>
+          <li>6. Usa la ropa o accesorios adecuados (gorra, casco, bloqueador solar, etc.)</li>
+          <li>7. Establece una rutina, destina un horario y lugar fijo para realizarlo</li>
+          <li>8. Si no has realizado ejercicio últimamente, hay que hacerlo de manera gradual y progresiva para evitar lesiones, sumando intensidad en la medida que no sienta un agotamiento extremo</li>
+          <li>9. Parar un ejercicio inmediatamente después de sentir algún dolor o hinchazón</li>
+          <li>10. Si puedes realizar el ejercicio en compañía de alguien, les será más motivante a ambos </li>
+          <li>11. Sólo la constancia da resultados, apégate a la rutina que hayas definido lo más posible</li>
+          <li>12. Hidrátate con agua o isotónicos, no esperar a estar sediento</li>
+          <li>13. Aliméntate adecuadamente, el ejercicio demanda mayores cantidades de energía</li>
         </ul>
 
       </div><!-- /.col-md-7 -->        
