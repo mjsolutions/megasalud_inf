@@ -9,7 +9,7 @@
   <meta name="keywords" content="">
   <meta name="author" content="Megasalud">
 
-  <title>Alimentacion</title>
+  <title>Tranquilidad</title>
 
   <?php include ('head.php') ?>
 

@@ -118,7 +118,7 @@
 
 						<li><a href="javascript:void(0)">Tratamiento</a>
 							<ul class="dropdown">
-								<li><a href="#">Método Vranfcua</a></li>
+								<li><a href="tratamiento.php">Método Vranfcua</a></li>
 								<li><a href="#">Hemovacuna</a></li>
 								<li><a href="#">Reyshen</a></li>								
 								<li><a href="#">Glicoxil</a></li>								

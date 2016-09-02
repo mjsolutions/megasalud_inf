@@ -2288,6 +2288,9 @@ KEY FRAME
 .txt-blue {
     color: #00bee2;
 }
+.txt-gray {
+    color: #aaa;
+}
 .btn-floating.icon-center i {
     width: unset!important;
 }
