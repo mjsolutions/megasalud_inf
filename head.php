@@ -130,7 +130,7 @@
 						<li><a href="javascript:void(0)">Ganoderma Lucidum</a>
 							<ul class="dropdown">
 								<li><a href="ganoderma.php">¿Qué es?</a></li>
-								<li><a href="#">Orígenes</a></li>
+								<li><a href="origen.php">Orígenes</a></li>
 								<li><a href="#">Beneficios</a></li>								
 								<li><a href="#">Composición química</a></li>								
 								<li><a href="#">Estudios científicos</a></li>								
