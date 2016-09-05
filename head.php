@@ -131,9 +131,9 @@
 							<ul class="dropdown">
 								<li><a href="ganoderma.php">¿Qué es?</a></li>
 								<li><a href="origen.php">Orígenes</a></li>
-								<li><a href="#">Beneficios</a></li>								
-								<li><a href="#">Composición química</a></li>								
-								<li><a href="#">Estudios científicos</a></li>								
+								<li><a href="beneficios.php">Beneficios</a></li>								
+								<li><a href="composicion-quimica.php">Composición química</a></li>							
+								<li><a href="estudios-cientificos.php">Estudios científicos</a></li>								
 								<li><a href="#">Uso</a></li>								
 							</ul>
 						</li>
