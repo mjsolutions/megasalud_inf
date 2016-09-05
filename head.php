@@ -118,19 +118,19 @@
 
 						<li><a href="javascript:void(0)">Tratamiento</a>
 							<ul class="dropdown">
-								<li><a href="#">Método Vranfcua</a></li>
-								<li><a href="#">Hemovacuna</a></li>
-								<li><a href="#">Reyshen</a></li>								
-								<li><a href="#">Glicoxil</a></li>								
-								<li><a href="#">Testimonios</a></li>								
-								<li><a href="#">Animación</a></li>								
+								<li><a href="tratamiento.php">Método Vranfcua</a></li>
+								<li><a href="hemovacuna.php">Hemovacuna</a></li>
+								<li><a href="reyshen.php">Reyshen</a></li>								
+								<li><a href="glicoxil.php">Glicoxil</a></li>								
+								<!-- <li><a href="#">Testimonios</a></li>								 -->
+								<!-- <li><a href="#">Animación</a></li>								 -->
 							</ul>
 						</li>
 
 						<li><a href="javascript:void(0)">Ganoderma Lucidum</a>
 							<ul class="dropdown">
-								<li><a href="#">¿Qué es?</a></li>
-								<li><a href="#">Orígenes</a></li>
+								<li><a href="ganoderma.php">¿Qué es?</a></li>
+								<li><a href="origen.php">Orígenes</a></li>
 								<li><a href="#">Beneficios</a></li>								
 								<li><a href="#">Composición química</a></li>								
 								<li><a href="#">Estudios científicos</a></li>								
@@ -142,9 +142,9 @@
 							<ul class="dropdown">
 								<li><a href="estilo-de-vida.php">Estilo de vida</a></li>
 								<li><a href="alimentacion.php">Alimentación</a></li>
-								<li><a href="#">Ejercicio</a></li>								
-								<li><a href="#">Descanso</a></li>								
-								<li><a href="#">Tranquilidad</a></li>							
+								<li><a href="ejercicio.php">Ejercicio</a></li>								
+								<li><a href="descanso.php">Descanso</a></li>								
+								<li><a href="tranquilidad.php">Tranquilidad</a></li>							
 							</ul>
 						</li>
 
@@ -168,4 +168,4 @@
 			</div>
 		</div>
 	</header>
-<!--header end-->
+<!--header end -->

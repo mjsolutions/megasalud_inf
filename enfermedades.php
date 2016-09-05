@@ -21,7 +21,6 @@
           <span class="white-text">Conoce todo lo que nuestros tratamientos pueden curar</span>
           <ol class="breadcrumb">
             <li><a href="#">Home</a></li>
-            <!-- <li><a href="#">Shortcodes</a></li> -->
             <li class="active">Enfermedades autoinmunes</li>
           </ol>
         </div>
