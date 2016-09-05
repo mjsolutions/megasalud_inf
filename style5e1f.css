@@ -2266,7 +2266,7 @@ KEY FRAME
     background:#03a9f4;
 }
 
-/* ================= Cusoms ==================== */
+/* ================= Customs ==================== */
 
 .col-center {
     float: none;
@@ -2284,4 +2284,10 @@ KEY FRAME
     border:none!important;
     background: rgba(255,255,255,0.9)!important;
     padding: 0 3px;
+}
+.txt-blue {
+    color: #00bee2;
+}
+.btn-floating.icon-center i {
+    width: unset!important;
 }

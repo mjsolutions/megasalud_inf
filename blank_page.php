@@ -21,7 +21,7 @@
           <h2 class="white-text">¿QUIÉNES SOMOS?</h2>
           <span class="white-text">Conoce un poco de nosotros</span>
           <ol class="breadcrumb">
-            <li><a href="#">Home</a></li>
+            <li><a href="index.php">Home</a></li>
             <!-- <li><a href="#">Shortcodes</a></li> -->
             <li class="active">¿Quiénes somos?</li>
           </ol>
