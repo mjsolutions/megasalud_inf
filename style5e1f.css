@@ -96,7 +96,11 @@ a,
     transition: all 0.3s ease; 
 }
 
-
+a.white-text:focus,
+a.white-text:hover {
+    color: #FF4136!important;
+    /*text-decoration: underline;*/
+}
 /* ================ Typography ================== */
 
 h1, h2, h3, h4, h5, h6{
@@ -2288,8 +2292,20 @@ KEY FRAME
 .txt-blue {
     color: #00bee2;
 }
+.txt-blue2 {
+    color: #01376b;
+}
 .txt-gray {
     color: #aaa;
+}
+.txt-green {
+    color: #11a13a;
+}
+.txt-border {
+    text-shadow:  0 0 2px #f2f2f2;
+}
+.txt-border2 {
+    text-shadow:  0 0 2px #111;
 }
 .btn-floating.icon-center i {
     width: unset!important;
