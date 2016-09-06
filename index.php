@@ -28,7 +28,7 @@
       <li data-transition="fade" data-slotamount="default"  data-easein="Power4.easeInOut" data-easeout="Power4.easeInOut" data-masterspeed="2000" data-rotate="0"  data-fstransition="fade" data-fsmasterspeed="1500" data-fsslotamount="7" data-saveperformance="off">
 
         <!-- MAIN IMAGE -->
-        <img src="assets/img/banner/slide6.jpg"  alt=""  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="10" class="rev-slidebg" data-no-retina>
+        <img src="assets/img/banner/slide1.jpg"  alt=""  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="10" class="rev-slidebg" data-no-retina>
 
         <!-- LAYER NR. 1 -->
         <div class="tp-caption rev-heading text-extrabold dark-text tp-resizeme"
