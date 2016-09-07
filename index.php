@@ -5,15 +5,15 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="Empresa orgullosamente mexicana dedicada al cuidado de tu salud a través de tratamientos médicos naturales, alternativos y no invasivos, especialmente diseñados para mejorar la calidad de vida de personas que padecen algún trastorno en su sistema inmunológico o alguna enfermedad autoinmune">
+  <meta name="description" content="Somos especialistas en el cuidado de tu salud a través de tratamientos médicos naturales, alternativos y no invasivos, diseñados especialmente para mejorar la calidad de vida de personas que padecen alguna enfermedad autoinmune">
   <meta name="keywords" content="">
   <meta name="author" content="Megasalud">
 
   <!-- Metas Facebook -->
   <meta property="og:url"  content="http://megasalud.com.mx/" />
   <meta property="og:title" content="Megasalud Internacional" />
-  <meta property="og:description" content="Empresa orgullosamente mexicana dedicada al cuidado de tu salud a través de tratamientos médicos naturales, alternativos y no invasivos, especialmente diseñados para mejorar la calidad de vida de personas que padecen algún trastorno en su sistema inmunológico o alguna enfermedad autoinmune" />
-  <meta property="og:image" content="http://megasalud.com.mx/img/megasalud/logo-madera.jpg" />
+  <meta property="og:description" content="Somos especialistas en el cuidado de tu salud a través de tratamientos médicos naturales, alternativos y no invasivos, diseñados especialmente para mejorar la calidad de vida de personas que padecen alguna enfermedad autoinmune" />
+  <meta property="og:image" content="http://megasalud.com.mx/img/megasalud/MegaSalud Internacional.jpg" />
 
   <title>Megasalud Internacional</title>
 

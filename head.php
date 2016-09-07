@@ -1,4 +1,4 @@
-<!--  favicon -->
+ <!--favicon -->
 <link rel="shortcut icon" href="assets/img/ico/favicon.ico">
 <!--  Google fonts -->
 <link href='https://fonts.googleapis.com/css?family=Raleway:400,300,500,700,900' rel='stylesheet' type='text/css'>
@@ -44,7 +44,19 @@
   js = d.createElement(s); js.id = id;
   js.src = "//connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v2.7";
   fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
+}(document, 'script', 'facebook-jssdk'));
+</script>
+
+<!-- ID de Analytics -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-83859809-1', 'auto');
+  ga('send', 'pageview');
+</script>
 </head>
 
 <body id="top" class="has-header-search">
@@ -158,4 +170,4 @@
 			</div>
 		</div>
 	</header>
-<!--header end -->
+<!--header end
