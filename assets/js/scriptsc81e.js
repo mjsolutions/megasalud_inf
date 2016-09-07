@@ -506,6 +506,10 @@
                 $(this).find('.product-filter li a').on('click',function (e) {
                     e.preventDefault();
 
+                    // set active class
+                    $(self).find('.product-filter li').removeClass('active');
+                    $(this).parent().addClass('active');//agregar clase a padre de elemento clickeado
+
                     // get group name from clicked item
                     var ttGroupName = $(this).attr('data-group');
 

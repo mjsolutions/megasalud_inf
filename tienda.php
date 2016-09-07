@@ -45,11 +45,11 @@
             <div class="widget widget_categories vertical-tab ">
               <h3 class="widget-title">LINEAS DE PRODUCTOS</h3>
               <hr class="mb-30">
-              <ul class="nav nav-tabs nav-stacked product-filter" role="tablist">
-                <li role="presentation" class="active"><a href="#tab-8" class="waves-effect waves-light" role="tab" data-toggle="tab" data-group="all">Todos</a></li>
-                <li role="presentation"><a href="#tab-5" class="waves-effect waves-light" role="tab" data-toggle="tab" data-group="salud">Línea Salud</a></li>
-                <li role="presentation"><a href="#tab-6" class="waves-effect waves-light" role="tab" data-toggle="tab" data-group="nutricion">Linea Nutrición</a></li>
-                <li role="presentation"><a href="#tab-7" class="waves-effect waves-light" role="tab" data-toggle="tab" data-group="belleza">Línea Belleza</a></li>
+              <ul class="nav nav-tabs nav-stacked product-filter" >
+                <li class="active"><a href="" class="waves-effect waves-light" data-group="all">Todos</a></li>
+                <li><a href="" class="waves-effect waves-light" data-group="salud">Línea Salud</a></li>
+                <li><a href="" class="waves-effect waves-light" data-group="nutricion">Linea Nutrición</a></li>
+                <li><a href="" class="waves-effect waves-light" data-group="belleza">Línea Belleza</a></li>
               </ul>
             </div><!-- /.widget_categories -->
 
