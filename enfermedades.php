@@ -20,7 +20,7 @@
           <h2 class="white-text">ENFERMEDADES AUTOINMUNES</h2>
           <span class="white-text">Conoce todo lo que nuestros tratamientos pueden curar</span>
           <ol class="breadcrumb">
-            <li><a href="#">Home</a></li>
+            <li><a href="index.php">Home</a></li>
             <li class="active">Enfermedades autoinmunes</li>
           </ol>
         </div>
@@ -46,19 +46,19 @@
 
           <table class="table table-striped">
             <tr>
-              <td><div><a href="diabetes.php">Diabetes</div></td>
-              <td><div><a href="vitiligo.php">Vitiligo</a></div></td>
-              <td><div><a href="lupus.php">Lupus</a></div></td>
+              <td><div><a href="404.php">Diabetes</div></td>
+              <td><div><a href="404.php">Vitiligo</a></div></td>
+              <td><div><a href="404.php">Lupus</a></div></td>
             </tr>
             <tr>
-              <td><div><a href="esclerodermia.php">Esclerodermia</div></td>
-              <td><div><a href="artritis.php">Artritis</div></td>
-              <td><div><a href="asma.php">Asma</div></td>
+              <td><div><a href="404.php">Esclerodermia</div></td>
+              <td><div><a href="404.php.php">Artritis</div></td>
+              <td><div><a href="404.php.php">Asma</div></td>
             </tr>
             <tr>
-              <td><div><a href="sida.php">Sida</div></td>
-              <td><div><a href="psoriasis.php">Psoriasis</div></td>
-              <td><div><a href="asma-infantil.php">Asma Infantil</div></td>
+              <td><div><a href="404.php">Sida</div></td>
+              <td><div><a href="404.php">Psoriasis</div></td>
+              <td><div><a href="404.php">Asma Infantil</div></td>
             </tr>
           </table>
         </div><!-- /.col-md-12 -->

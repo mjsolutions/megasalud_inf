@@ -83,7 +83,7 @@
 										<!-- <h2>Menu Type Page</h2> -->
 										<ul class="list-unstyled clearfix">
 											<li><a href="enfermedades.php">Enfermedades Autoinmunes</a></li>
-											<li><a href="diabetes.php">Diabetes</a></li>
+											<li><a href="">Diabetes</a></li>
 											<li><a href="">Cáncer</a></li>
 										</ul>
 									</div>
@@ -108,7 +108,6 @@
 										<ul class="list-unstyled clearfix">
 											<li><a href="">Psoriasis</a></li>
 											<li><a href="">Artritis</a></li>
-											<li><a href="" target="_blank">Otras</a></li>
 										</ul>
 									</div>
 
@@ -131,10 +130,10 @@
 							<ul class="dropdown">
 								<li><a href="ganoderma.php">¿Qué es?</a></li>
 								<li><a href="origen.php">Orígenes</a></li>
-								<li><a href="#">Beneficios</a></li>								
-								<li><a href="#">Composición química</a></li>								
-								<li><a href="#">Estudios científicos</a></li>								
-								<li><a href="#">Uso</a></li>								
+								<li><a href="beneficios.php">Beneficios</a></li>								
+								<li><a href="composicion-quimica.php">Composición química</a></li>							
+								<li><a href="estudios-cientificos.php">Estudios científicos</a></li>				
+								<li><a href="uso.php">Uso</a></li>								
 							</ul>
 						</li>
 
@@ -148,19 +147,10 @@
 							</ul>
 						</li>
 
-						<li><a href="javascript:void(0)">Tienda</a>
-							<ul class="dropdown">
-								<li><a href="#">Catálogo completo</a></li>
-								<li><a href="#">Línea Salud</a></li>
-								<li><a href="#">Línea Nutrición</a></li>								
-								<li><a href="#">Línea Belleza</a></li>								
-								<li><a href="#">Promociones</a></li>							
-							</ul>
-						</li>
 
-						<li><a href="contacto.php">Contacto</a>
+						<li><a href="404.php">Tienda</a></li>
 
-						</li>
+						<li><a href="contacto.php">Contacto</a></li>
 					</ul>
 					<!--mega menu end-->
 

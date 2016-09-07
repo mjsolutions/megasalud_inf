@@ -38,8 +38,6 @@
       <div class="row wow fadeInUp" data-wow-delay=".2s">
         <div class="col-md-12">
           <p>La Diabetes Mellitus es una enfermedad metabólica en la que se ve comprometida la secreción de insulina por el páncreas y/o resistencia de las células que captan la insulina (receptores insulinicos) ambas situaciones pueden ser totales o parciales siendo consecuentemente un conjunto de síndromes, dicha enfermedad se caracteriza por que el paciente presenta elevaciones de la glucosa y su cuerpo no tiene la capacidad para disminuir la glucosa que circula y que es ingerida aunque dicha enfermedad puede causar de la misma manera alteraciones en las grasa y las proteínas así como el colesterol dichas alteraciones son secundarias al déficit relativo o absoluto de la insulina y desafortunadamente este tipo de pacientes se presentan con complicaciones crónicas muy frecuentemente.</p>
-          
-<<<<<<< HEAD
         </div><!-- /.col-md-12 -->
       </div><!-- /.row -->
     </div><!-- /.container -->
@@ -48,11 +46,6 @@
 
   <section class="padding-bottom-100">
     <div class="container">
-      <div class="text-center mb-80">
-        <h2>Vertical Tab</h2>
-        <p>Matrox has 8 unique tab style</p>
-      </div>
-
       <div class="vertical-tab">
         <div class="row">
           <div class="col-sm-3">
@@ -81,9 +74,23 @@
 
                   <img class="alignright" src="assets/img/busy_man.png" alt="">
 
-                  <p>Duis senectus mus condimentum nunc ac habitasse duis consectetur a arcu a accumsan cras et metus ultricies justo cum a bibendum. <a href="#">Egestas vestibulum blandit sem vestibulum curabitur</a> a vel aliquet gravida ullamcorper amet dictumst vestibulum a elementum proin id volutpat magna parturient.</p>
+                  <p>
+Para el diagnostico se cuentan con parámetros bioquímicos y parámetros o guías clínicas que nos dan el criterio medico para hacer el diagnostico de Diabetes Mellitus.</p>
 
-                  <p>Himenaeos a vestibulum morbi. <a href="#">Ullamcorper cras scelerisque</a> taciti lorem metus feugiat est lacinia facilisis id nam leo condimentum praesent id diam. Vestibulum amet porta odio elementum convallis parturient tempor tortor.</p>
+                  <p><strong>Los criterios bioquímicos diagnósticos para Diabetes Mellitus actualmente son:</strong></p>
+                  <ul>
+                     <li class="wow fadeInLeft" data-wow-delay=".2s"><i class="material-icons left txt-blue">&#xE15B;</i>Intolerancia a los hidratos de carbono: Glucosa entre 100 y 125 considerándose un estado prediabetico siendo este un factor muy importante para el desarrollo posterior de Diabetes Mellitus.</li>
+                     <li class="wow fadeInLeft" data-wow-delay=".3s"><i class="material-icons left txt-blue">&#xE15B;</i>Diabetes Mellitus: Cuando se detecta en el paciente una glucosa en ayuno mayor de 126 mg/dl o mayor de 200 mg/dl en una toma al azar.</li>
+                  </ul>
+                  <p><br>Aun que no se sea una persona con riesgos de desarrollar Diabetes Mellitus hay que hacer pruebas para descartar esta enfermedad cada 2 a 3 años en personas asintomáticas mayores de 45 años y personas con sobrepeso, así como en pacientes con realizar pruebas de detección en pacientes con antecedentes familiares de Diabetes Mellitus, sedentarismo, con intolerancia a la glucosa, historia de Diabetes durante el embarazo, haber tenido hijo que al nacimiento pesaran más de 4 kilogramos, aumento de las grasas, así como enfermedades arteriales como la Hipertensión Arterial Sistémica y los la raza de latinoamericanos. </p>
+                  <p><strong>La clasificación de la Diabetes Mellitus actualmente es:</strong></p>
+                  <ul>
+                    <li class="wow fadeInLeft" data-wow-delay=".5s"><i class="material-icons left txt-blue">&#xE15B;</i>Diabetes Mellitus tipo 1 (Diabetes Mellitus juvenil)</li>
+                    <li class="wow fadeInLeft" data-wow-delay=".6s"><i class="material-icons left txt-blue">&#xE15B;</i>Diabetes Mellitus tipo 2</li>
+                    <li class="wow fadeInLeft" data-wow-delay=".7s"><i class="material-icons left txt-blue">&#xE15B;</i>Otros tipos (incluye múltiples formas de presentarse Diabetes Mellitus por enfermedades secundarias)</li>
+                    <li class="wow fadeInLeft" data-wow-delay=".8s"><i class="material-icons left txt-blue">&#xE15B;</i>Diabetes Mellitus en el embarazo (Diabetes Gestacional).
+</li>
+                  </ul>
                 </div>
                 <div role="tabpanel" class="tab-pane fade" id="tab-7">
                   <h2>Manifestaciones Clínicas</h2>
@@ -109,9 +116,12 @@
               </div>
             </div>
           </div>
+          <div class="text-center mb-80">
+          <h2 class="section-title text-capitalize">Nuestro tratamiento</h2>
+          <p class="section-sub">Megasalud ha desarrollado un tratamiento natural, NO invasivo y sin efectos secundarios que puede contribuir a curar o controlar la esclerodermia, según el caso, mejorando considerablemente la calidad de vida del paciente. Nuestro tratamiento se ajusta a los defectos inmunológicos de cada paciente en particular y dicho tratamiento consta de varios elementos que, juntos, interactúan en el sistema inmunológico al reestructurarlo y por consecuencia, generando una mejora clínica y bioquímica en el paciente. Conócelo</p>
+        </div>
         </div><!-- /.row -->
       </div><!-- /.vertical-tab -->
-
     </div><!-- /.container -->
   </section>
 

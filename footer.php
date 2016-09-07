@@ -15,12 +15,27 @@
       </div><!-- /.row -->
 
       <div class="row mt-40">
-        <div class="col-md-8">
+        <div class="col-md-6 widget" >
           <h2 class="section-title white-text pb-50 text-center">¡Tu Salud <br> en Buenas Manos!</h2>
 
+            <h2 class="white-text mt-80 text-center">Únete a nuestro newsletter</h2>
+
+            <p class="text-center">Recíbe directo en tu email noticias, promociones y todo lo que Megasalud Internacional tiene para ti</p>
+          <div class="col-md-8 col-center">
+            
+            <form action="//megasalud.us14.list-manage.com/subscribe/post?u=4466ef24314512165881562cf&amp;id=472ff14eff" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+              <div class="form-group clearfix">
+                <label class="sr-only" for="subscribe">Correo electrónico</label>
+                <input type="email" class="form-control" value="" name="EMAIL" id="mce-EMAIL" placeholder="Correo electrónico" required>
+                <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_4466ef24314512165881562cf_472ff14eff" tabindex="-1" value=""></div>
+                <button type="submit" class="tt-animate ltr" value="Subscribe" name="subscribe" id="mc-embedded-subscribe"><i class="fa fa-long-arrow-right"></i></button>
+              </div>
+            </form>
+          </div>
+
         </div>
-        <div class="col-md-4 widget">
-          <div class="fb-page" data-href="https://www.facebook.com/MegasaludInt" data-tabs="timeline" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="false"><blockquote cite="https://www.facebook.com/MegasaludInt" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/MegasaludInt">Megasalud Internacional</a></blockquote></div>
+        <div class="col-md-6 widget" style="border-left: 1px solid rgba(255, 255, 255, 0.3);">
+          <div class="fb-page pull-right col-md-9" data-href="https://www.facebook.com/MegasaludInt" data-tabs="timeline" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="false"><blockquote cite="https://www.facebook.com/MegasaludInt" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/MegasaludInt">Megasalud Internacional</a></blockquote></div>
         </div>
       </div><!-- /.row -->
     </div><!-- /.container -->
@@ -59,8 +74,8 @@
 
 <!-- Translate -->
 <script type="text/javascript">
-function googleTranslateElementInit() {
-  new google.translate.TranslateElement({pageLanguage: 'es', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
-}
+  function googleTranslateElementInit() {
+    new google.translate.TranslateElement({pageLanguage: 'es', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
+  }
 </script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
 <!-- End Translate 

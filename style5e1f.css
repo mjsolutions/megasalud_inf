@@ -96,7 +96,17 @@ a,
     transition: all 0.3s ease; 
 }
 
+a.white-text:focus,
+a.white-text:hover {
+    color: #FF4136!important;
+    /*text-decoration: underline;*/
+}
 
+a.red.white-text:focus,
+a.red.white-text:hover {
+    color: #FFDC00!important;
+    /*text-decoration: underline;*/
+}
 /* ================ Typography ================== */
 
 h1, h2, h3, h4, h5, h6{
@@ -1999,19 +2009,12 @@ KEY FRAME
     }
 }
 
-
-
-
 /* ========== Newsletter Subscription ============== */
 .subscription-success {
     color: #fff;
     line-height: 24px;
     margin-top: 20px;
 }
-
-
-
-
 
 /* ================= Search Style ==================== */
 
@@ -2289,10 +2292,47 @@ KEY FRAME
     color: #00bee2;
 }
 
+.txt-blue2 {
+    color: #01376b;
+}
 .txt-gray {
     color: #aaa;
+}
+.txt-green {
+    color: #11a13a;
+}
+.txt-yellow {
+    color: #FFDC00;
+}
+.txt-border {
+    text-shadow:  0 0 2px #f2f2f2;
+}
+.txt-border2 {
+    text-shadow:  0 0 2px #111;
 }
 
 .btn-floating.icon-center i {
     width: unset!important;
+}
+.lh-20 {
+    line-height: 20px;
+}
+
+.card .card-action {
+    padding: 0;
+}
+
+blockquote.salud {
+    border-left-color: #2ecc40; 
+}
+
+blockquote.nutricion {
+    border-left-color: #ff9800; 
+}
+
+blockquote.belleza {
+    border-left-color: #3f51b5; 
+}
+.widget_categories ul li a:hover {
+    color: #fff;
 }

@@ -2,96 +2,33 @@
 <html lang="es">
 
 <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="">
-    <meta name="keywords" content="">
-    <meta name="author" content="Megasalud">
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Empresa orgullosamente mexicana dedicada al cuidado de tu salud a través de tratamientos médicos naturales, alternativos y no invasivos, especialmente diseñados para mejorar la calidad de vida de personas que padecen algún trastorno en su sistema inmunológico o alguna enfermedad autoinmune">
+  <meta name="keywords" content="">
+  <meta name="author" content="Megasalud">
 
-    <title>Megasalud Internacional</title>
+  <!-- Metas Facebook -->
+  <meta property="og:url"  content="http://megasalud.com.mx/" />
+  <meta property="og:title" content="Megasalud Internacional" />
+  <meta property="og:description" content="Empresa orgullosamente mexicana dedicada al cuidado de tu salud a través de tratamientos médicos naturales, alternativos y no invasivos, especialmente diseñados para mejorar la calidad de vida de personas que padecen algún trastorno en su sistema inmunológico o alguna enfermedad autoinmune" />
+  <meta property="og:image" content="http://megasalud.com.mx/img/megasalud/logo-madera.jpg" />
 
-    <?php include ('head.php') ?>
+  <title>Megasalud Internacional</title>
 
-        <!-- start revolution slider 5.0 -->
-        <section class="rev_slider_wrapper">
-           <div class="rev_slider matrox-slider">
-              <ul>
+  <?php include ('head.php') ?>
 
-                <!-- slide 1 start --> 
-                <li data-transition="fade" data-slotamount="default"  data-easein="Power4.easeInOut" data-easeout="Power4.easeInOut" data-masterspeed="2000"  data-thumb="assets/img/banner/banner-1.jpg"  data-rotate="0"  data-fstransition="fade" data-fsmasterspeed="1500" data-fsslotamount="7" data-saveperformance="off"  data-title="Matrox Material" data-description="">
+  <!-- start revolution slider 5.0 -->
+  <section class="rev_slider_wrapper">
+   <div class="rev_slider matrox-slider">
+    <ul>
 
-                    <!-- MAIN IMAGE -->
-                    <img src="assets/img/banner/banner-1.jpg"  alt=""  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="10" class="rev-slidebg" data-no-retina>
-
-                    <!-- LAYER NR. 1 -->
-                    <div class="tp-caption rev-heading text-extrabold dark-text tp-resizeme"
-                    data-x="center"
-                    data-y="center" data-voffset="-50" 
-                    data-fontsize="['60','60','60','45']"
-                    data-lineheight="['60','60','60','50']"
-                    data-width="none"
-                    data-height="none"
-                    data-whitespace="nowrap"
-                    data-transform_idle="o:1;"
-                    data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:600;e:Power4.easeInOut;" 
-                    data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" 
-                    data-mask_in="x:0px;y:[100%];s:inherit;e:inherit;" 
-                    data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" 
-                    data-start="800" 
-                    data-splitin="none" 
-                    data-splitout="none" 
-                    data-responsive_offset="on"
-                    style="z-index: 5; white-space: nowrap;">We Are Matrox
-                </div>
-
-                <!-- LAYER NR. 2 -->
-                <div class="tp-caption tp-resizeme rev-subheading  dark-text text-center"
-                data-x="center"
-                data-y="center" data-voffset="30"
-                data-whitespace="nowrap"
-                data-transform_idle="o:1;"
-
-                data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:600;e:Power4.easeInOut;" 
-                data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" 
-                data-mask_in="x:0px;y:[100%];s:inherit;e:inherit;" 
-                data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" 
-                data-start="1000" 
-                data-splitin="none" 
-                data-splitout="none" 
-                data-responsive_offset="on"
-                style="z-index: 6; white-space: nowrap;">Matrox is an interactive agency. Which develops websites <br> and premium mobile applications.
-            </div>
-
-            <!-- LAYER NR. 3 -->
-            <div class="tp-caption tp-resizeme rev-btn"
-            data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" 
-            data-y="['middle','middle','middle','middle']" data-voffset="['130','130','130','130']" 
-            data-width="none"
-            data-height="none"
-            data-whitespace="nowrap"
-            data-transform_idle="o:1;"
-            data-style_hover="cursor:default;"
-            data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:600;e:Power4.easeInOut;" 
-            data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" 
-            data-mask_in="x:0px;y:[100%];s:inherit;e:inherit;" 
-            data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" 
-            data-start="1200" 
-            data-splitin="none" 
-            data-splitout="none" 
-            data-responsive_offset="on"
-            style="z-index: 7; white-space: nowrap;">
-            <a href="#" class="btn btn-lg  waves-effect waves-light">Explore More</a>
-        </div>
-
-    </li>
-    <!-- slide 1 end -->
-
-    <!-- slide 2 start --> 
-    <li data-transition="fade" data-slotamount="default"  data-easein="Power4.easeInOut" data-easeout="Power4.easeInOut" data-masterspeed="2000"  data-thumb="assets/img/banner/banner-2.jpg"  data-rotate="0"  data-fstransition="fade" data-fsmasterspeed="1500" data-fsslotamount="7" data-saveperformance="off"  data-title="Unique Design" data-description="">
+      <!-- slide 1 start --> 
+      <li data-transition="fade" data-slotamount="default"  data-easein="Power4.easeInOut" data-easeout="Power4.easeInOut" data-masterspeed="2000" data-rotate="0"  data-fstransition="fade" data-fsmasterspeed="1500" data-fsslotamount="7" data-saveperformance="off">
 
         <!-- MAIN IMAGE -->
-        <img src="assets/img/banner/banner-2.jpg"  alt=""  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="10" class="rev-slidebg" data-no-retina>
+        <img src="assets/img/banner/slide1.jpg"  alt=""  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="10" class="rev-slidebg" data-no-retina>
 
         <!-- LAYER NR. 1 -->
         <div class="tp-caption rev-heading text-extrabold dark-text tp-resizeme"
@@ -111,25 +48,94 @@
         data-splitin="none" 
         data-splitout="none" 
         data-responsive_offset="on"
-        style="z-index: 5; white-space: nowrap;">We Build Brands
+        style="z-index: 5; white-space: nowrap;"><span class="txt-blue2 ">MEGA</span><span class="txt-blue ">SALUD</span> <span class="txt-blue2 ">INTERNACIONAL</span>
+      </div>
+
+      <!-- LAYER NR. 2 -->
+      <div class="tp-caption tp-resizeme rev-subheading text-center"
+      data-x="center"
+      data-y="center" data-voffset="30"
+      data-whitespace="nowrap"
+      data-transform_idle="o:1;"
+
+      data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:600;e:Power4.easeInOut;" 
+      data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" 
+      data-mask_in="x:0px;y:[100%];s:inherit;e:inherit;" 
+      data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" 
+      data-start="1000" 
+      data-splitin="none" 
+      data-splitout="none" 
+      data-responsive_offset="on"
+      style="z-index: 6; white-space: nowrap;"><h2 class="white-text">Tratamientos médicos naturales contra <br> enfermedades autoinmunes</h2>
     </div>
 
-    <!-- LAYER NR. 2 -->
-    <div class="tp-caption tp-resizeme rev-subheading dark-text text-center"
-    data-x="center"
-    data-y="center" data-voffset="30"
+    <!-- LAYER NR. 3 -->
+    <div class="tp-caption tp-resizeme rev-btn"
+    data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" 
+    data-y="['middle','middle','middle','middle']" data-voffset="['130','130','130','130']" 
+    data-width="none"
+    data-height="none"
     data-whitespace="nowrap"
     data-transform_idle="o:1;"
-
+    data-style_hover="cursor:default;"
     data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:600;e:Power4.easeInOut;" 
     data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" 
     data-mask_in="x:0px;y:[100%];s:inherit;e:inherit;" 
     data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" 
-    data-start="1000" 
+    data-start="1200" 
     data-splitin="none" 
     data-splitout="none" 
     data-responsive_offset="on"
-    style="z-index: 6; white-space: nowrap;">Matrox is an interactive agency. Which develops websites <br> and premium mobile applications.
+    style="z-index: 7; white-space: nowrap;">
+    <a href="#" class="btn btn-lg  waves-effect waves-light">Conoce más</a>
+  </div>
+
+</li>
+<!-- slide 1 end -->
+
+<!-- slide 2 start --> 
+<li data-transition="fade" data-slotamount="default"  data-easein="Power4.easeInOut" data-easeout="Power4.easeInOut" data-masterspeed="2000" data-rotate="0"  data-fstransition="fade" data-fsmasterspeed="1500" data-fsslotamount="7" data-saveperformance="off"  data-title="Unique Design" data-description="">
+
+  <!-- MAIN IMAGE -->
+  <img src="assets/img/banner/slide5.jpeg"  alt=""  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="10" class="rev-slidebg" data-no-retina>
+
+  <!-- LAYER NR. 1 -->
+  <div class="tp-caption rev-heading text-extrabold txt-blue2 txt-border tp-resizeme"
+  data-x="center"
+  data-y="center" data-voffset="-50" 
+  data-fontsize="['60','60','60','45']"
+  data-lineheight="['60','60','60','50']"
+  data-width="none"
+  data-height="none"
+  data-whitespace="nowrap"
+  data-transform_idle="o:1;"
+  data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:600;e:Power4.easeInOut;" 
+  data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" 
+  data-mask_in="x:0px;y:[100%];s:inherit;e:inherit;" 
+  data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" 
+  data-start="800" 
+  data-splitin="none" 
+  data-splitout="none" 
+  data-responsive_offset="on"
+  style="z-index: 5; white-space: nowrap;">TU SALUD EN BUENAS MANOS
+</div>
+
+<!-- LAYER NR. 2 -->
+<div class="tp-caption tp-resizeme rev-subheading text-center"
+data-x="center"
+data-y="center" data-voffset="30"
+data-whitespace="nowrap"
+data-transform_idle="o:1;"
+
+data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:600;e:Power4.easeInOut;" 
+data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" 
+data-mask_in="x:0px;y:[100%];s:inherit;e:inherit;" 
+data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" 
+data-start="1000" 
+data-splitin="none" 
+data-splitout="none" 
+data-responsive_offset="on"
+style="z-index: 6; white-space: nowrap;"><h1 class="white-text txt-border2">Tratamiento natural, no invasivo <br> y sin efectos secundarios</h1>
 </div>
 
 <!-- LAYER NR. 3 -->
@@ -150,7 +156,7 @@ data-splitin="none"
 data-splitout="none" 
 data-responsive_offset="on"
 style="z-index: 7; white-space: nowrap;">
-<a href="#" class="btn btn-lg  waves-effect waves-light">Explore More</a>
+<a href="#" class="btn btn-lg  waves-effect waves-light">Conoce más</a>
 </div>
 
 </li>
@@ -162,524 +168,134 @@ style="z-index: 7; white-space: nowrap;">
 
 
 <section class="section-padding">
-    <div class="container">
+  <div class="container">
 
-      <div class="text-center mb-80">
-          <h2 class="section-title text-uppercase">Who we are</h2>
-          <p class="section-sub">Quisque non erat mi. Etiam congue et augue sed tempus. Aenean sed ipsum luctus, scelerisque ipsum nec, iaculis justo. Sed at vestibulum purus, sit amet viverra diam. Nulla ac nisi rhoncus,</p>
-      </div>
+    <div class="text-center mb-80">
+      <h2 class="section-title text-uppercase wow fadeInUp" data-wow-delay=".2s">Quienes somos</h2>
+      <p class="section-sub wow fadeInUp" data-wow-delay=".3s">Somos una empresa dedicada al cuidado de tu salud, a través de tratamientos médicos naturales, alternativos y no invasivos, especialmente diseñados para mejorar la calidad de vida de personas que padecen algún trastorno en su sistema inmunológico o alguna enfermedad autoinmune como puede ser:</p>
+    </div>
 
-      <div class="row">
-        <div class="col-md-12">
-
-            <div class="icon-tab">
-
-              <!-- Nav tabs -->
-              <div class="text-center">
-                <ul class="nav nav-pills" role="tablist">
-
-                  <li role="presentation"><a href="#icontab-1" class="waves-effect waves-light"  role="tab" data-toggle="tab"> <i class="material-icons">&#xE7FD;</i></a></li>
-
-                  <li role="presentation" class="active"><a href="#icontab-2" class="waves-effect waves-light" role="tab" data-toggle="tab"> <i class="material-icons">&#xE3B7;</i></a></li>
-
-                  <li role="presentation"><a href="#icontab-3" class="waves-effect waves-light" role="tab" data-toggle="tab"> <i class="material-icons">&#xE53B;</i></a></li>
-                  <li role="presentation"><a href="#icontab-4" class="waves-effect waves-light" role="tab" data-toggle="tab"> <i class="material-icons">&#xE859;</i></a></li>
-              </ul>
-          </div>
-
-          <!-- Tab panes -->
-          <div class="panel-body mt-40">
-            <div class="tab-content">
-              <div role="tabpanel" class="tab-pane fade" id="icontab-1">
-
-                <div class="row">
-                  <div class="col-md-6">
-                      <h2 class="text-bold mb-40">About us</h2>
-                      <p>Himenaeos a vestibulum morbi. <a href="#">Ullamcorper cras scelerisque</a> taciti lorem metus feugiat est lacinia facilisis id nam leo condimentum praesent id diam. Vestibulum amet porta odio elementum convallis parturient tempor tortor tempus a mi ad parturient ad nulla mus amet in penatibus nascetur at vulputate euismod a est tristique scelerisque. Aliquet facilisis nisl vel vestibulum dignissim gravida ullamcorper hac quisque ad at nisl egestas adipiscing vel blandit.</p>
-                  </div>
-
-                  <div class="col-md-6">
-                      <img src="assets/img/workstation.jpg" alt="image" class="img-responsive">
-                  </div>
-              </div>
-          </div>
-
-          <div role="tabpanel" class="tab-pane fade in active" id="icontab-2">
-            <div class="row">
-              <div class="col-md-6">
-                  <h2 class="text-bold mb-40">Our Mission</h2>
-                  <p>Himenaeos a vestibulum morbi. <a href="#">Ullamcorper cras scelerisque</a> taciti lorem metus feugiat est lacinia facilisis id nam leo condimentum praesent id diam. Vestibulum amet porta odio elementum convallis parturient tempor tortor tempus a mi ad parturient ad nulla mus amet in penatibus nascetur at vulputate euismod a est tristique scelerisque. Aliquet facilisis nisl vel vestibulum dignissim gravida ullamcorper hac quisque ad at nisl egestas adipiscing vel blandit.</p>
-              </div>
-
-              <div class="col-md-6">
-                  <img src="assets/img/mission.jpg" alt="image" class="img-responsive">
-              </div>
-          </div>
-      </div>
-
-      <div role="tabpanel" class="tab-pane fade" id="icontab-3">
-        <div class="row">
-          <div class="col-md-6">
-              <h2 class="text-bold mb-40">What We Do</h2>
-              <p>Himenaeos a vestibulum morbi. <a href="#">Ullamcorper cras scelerisque</a> taciti lorem metus feugiat est lacinia facilisis id nam leo condimentum praesent id diam. Vestibulum amet porta odio elementum convallis parturient tempor tortor tempus a mi ad parturient ad nulla mus amet in penatibus nascetur at vulputate euismod a est tristique scelerisque. Aliquet facilisis nisl vel vestibulum dignissim gravida ullamcorper hac quisque ad at nisl egestas adipiscing vel blandit.</p>
-          </div>
-
-          <div class="col-md-6">
-              <img src="assets/img/idea.jpg" alt="" class="img-responsive">
-          </div>
-      </div>
-  </div>
-
-  <div role="tabpanel" class="tab-pane fade" id="icontab-4">
     <div class="row">
-      <div class="col-md-6">
-          <h2 class="text-bold mb-40">Our Setps</h2>
-          <p>Himenaeos a vestibulum morbi. <a href="#">Ullamcorper cras scelerisque</a> taciti lorem metus feugiat est lacinia facilisis id nam leo condimentum praesent id diam. Vestibulum amet porta odio elementum convallis parturient tempor tortor tempus a mi ad parturient ad nulla mus amet in penatibus nascetur at vulputate euismod a est tristique scelerisque. Aliquet facilisis nisl vel vestibulum dignissim gravida ullamcorper hac quisque ad at nisl egestas adipiscing vel blandit.</p>
-      </div>
+      <div class="col-md-12">
 
-      <div class="col-md-6">
-          <img src="assets/img/workstation2.jpg" alt="image" class="img-responsive">
-      </div>
-  </div>
-</div>
-</div>
-</div>
+        <ul class="featured plus-box grid-3">
+          <li>
+            <div class="featured-item">
+              <div class="desc wow fadeInLeft" data-wow-delay=".4s">
+                <h2>DIABETES</h2>
+                <p>La Diabetes Mellitus es una enfermedad metabólica en la que se ve comprometida la secreción de insulina...</p>
+                <a href="#" class="waves-effect waves-red btn-flat red-text">Conoce más</a>
+              </div>
+            </div><!-- /.featured-item -->
+          </li>
+          <li>
+            <div class="featured-item">
+              <div class="desc wow fadeInDown" data-wow-delay=".4s">
+                <h2>CÁNCER</h2>
+                <p>El cáncer comienza cuando las células crecen descontroladamente sobrepasando a las celulas normales, lo cual dificulta...</p>
+                <a href="#" class="waves-effect waves-red btn-flat red-text">Conoce más</a>
+              </div>
+            </div><!-- /.featured-item -->
+          </li>
+          <li>
+            <div class="featured-item">
+              <div class="desc wow fadeInRight" data-wow-delay=".4s">
+                <h2>ASMA</h2>
+                <p>El asma es un trastorno inflamatorio de las vías respiratorias que causa ataques de sibilancias, dificultad para respirar...</p>
+                <a href="#" class="waves-effect waves-red btn-flat red-text">Conoce más</a>
+              </div>
+            </div><!-- /.featured-item -->
+          </li>
+          <li>
+            <div class="featured-item">
+              <div class="desc wow fadeInLeft" data-wow-delay=".4s">
+                <h2>ARTRITIS</h2>
+                <p>La artritis reumatoidea es una enfermedad crónica que lleva a la inflamación de las articulaciones...</p>
+                <a href="#" class="waves-effect waves-red btn-flat red-text">Conoce más</a>
+              </div>
+            </div><!-- /.featured-item -->
+          </li>
+          <li>
+            <div class="featured-item">
+              <div class="desc wow fadeInUp" data-wow-delay=".4s">
+                <h2>VITILIGO</h2>
+                <p>El vitíligo es una enfermedad degenerativa de la piel en la que los melanocitos (las células responsables de...</p>
+                <a href="#" class="waves-effect waves-red btn-flat red-text">Conoce más</a>
+              </div>
+            </div><!-- /.featured-item -->
+          </li>
+          <li>
+            <div class="featured-item">
+              <div class="desc wow fadeInRight" data-wow-delay=".4s">
+                <h2>LUPUS</h2>
+                <p>El Lupus es un trastorno autoinmunitario crónico que puede afectar la piel, las articulaciones, los...</p>
+                <a href="#" class="waves-effect waves-red btn-flat red-text">Conoce más</a>
+              </div>
+            </div><!-- /.featured-item -->
+          </li>
 
-</div><!-- /.icon-tab -->
+        </ul>
 
-</div><!-- /.col-md-12 -->
-</div><!-- /.row -->
+      </div><!-- /.col-md-12 -->
+    </div><!-- /.row -->
 
-</div><!-- /.container -->
+    <div class="text-center mb-80 mt-50">
+      <a class="waves-effect waves-light btn blue wow fadeIn" data-wow-delay=".2s">VER LISTA COMPLETA DE ENFERMEDADES</a>
+    </div>
+
+  </div><!-- /.container -->
 </section>
 
 
 <section class="section-padding gray-bg">
-    <div class="container">
+  <div class="container">
 
-      <div class="text-center mb-80">
-          <h2 class="section-title text-uppercase">What we do</h2>
-          <p class="section-sub">Quisque non erat mi. Etiam congue et augue sed tempus. Aenean sed ipsum luctus, scelerisque ipsum nec, iaculis justo. Sed at vestibulum purus, sit amet viverra diam. Nulla ac nisi rhoncus,</p>
-      </div>
+    <div class="text-center mb-80">
+      <h2 class="section-title text-uppercase wow fadeInLeft" data-wow-delay=".2s">COMO LO HACEMOS</h2>
+      <p class="section-sub wow fadeInRight" data-wow-delay=".2s">Megasalud ha desarrollado un tratamiento natural de este tipo, basado en las propiedades del hongo <strong><a href="ganoderma.php">"Ganoderma Lucidum"</a></strong> que, aunado a una <strong><a href="hemovacuna.php">hemovacuna</a></strong> personalizada, ofrece excelentes resultados a nuestros pacientes.</p>
+    </div>
 
-      <div class="row equal-height-row">
-
-          <div class="col-md-4 mb-30">
-            <div class="featured-item border-box radius-4 hover brand-hover equal-height-column">
-                <div class="icon mb-30">
-                    <i class="material-icons brand-icon">&#xE32A;</i>
-                </div>
-                <div class="desc">
-                    <h2>We are creative</h2>
-                    <p>Porttitor communicate pandemic data rather than enabled niche pandemic data rather markets neque pulvinar vitae.</p>
-                </div>
-            </div><!-- /.featured-item -->
-        </div><!-- /.col-md-4 -->
-
-
-        <div class="col-md-4 mb-30">
-            <div class="featured-item border-box radius-4 hover brand-hover equal-height-column">
-                <div class="icon mb-30">
-                    <i class="material-icons brand-icon">&#xE0BF;</i>
-                </div>
-                <div class="desc">
-                    <h2>We are awesome</h2>
-                    <p>Porttitor communicate pandemic data rather than enabled niche pandemic data rather markets neque pulvinar vitae.</p>
-                </div>
-            </div><!-- /.featured-item -->
-        </div><!-- /.col-md-4 -->
-
-
-        <div class="col-md-4 mb-30">
-            <div class="featured-item border-box radius-4 hover brand-hover equal-height-column">
-                <div class="icon mb-30">
-                    <i class="material-icons brand-icon">&#xE323;</i>
-                </div>
-                <div class="desc">
-                    <h2>We are Taltented</h2>
-                    <p>Porttitor communicate pandemic data rather than enabled niche pandemic data rather markets neque pulvinar vitae.</p>
-                </div>
-            </div><!-- /.featured-item -->
-        </div><!-- /.col-md-4 -->
-
-
-        <div class="col-md-4">
-            <div class="featured-item border-box radius-4 hover brand-hover equal-height-column">
-                <div class="icon mb-30">
-                    <i class="material-icons brand-icon">&#xE32A;</i>
-                </div>
-                <div class="desc">
-                    <h2>We are secured</h2>
-                    <p>Porttitor communicate pandemic data rather than enabled niche pandemic data rather markets neque pulvinar vitae.</p>
-                </div>
-            </div><!-- /.featured-item -->
-        </div><!-- /.col-md-4 -->
-
-
-        <div class="col-md-4">
-            <div class="featured-item border-box radius-4 hover brand-hover equal-height-column">
-                <div class="icon mb-30">
-                    <i class="material-icons brand-icon">&#xE149;</i>
-                </div>
-                <div class="desc">
-                    <h2>We are awesome</h2>
-                    <p>Porttitor communicate pandemic data rather than enabled niche pandemic data rather markets neque pulvinar vitae.</p>
-                </div>
-            </div><!-- /.featured-item -->
-        </div><!-- /.col-md-4 -->
-
-
-        <div class="col-md-4">
-            <div class="featured-item border-box radius-4 hover brand-hover equal-height-column">
-                <div class="icon mb-30">
-                    <i class="material-icons brand-icon">&#xE0C9;</i>
-                </div>
-                <div class="desc">
-                    <h2>We are Taltented</h2>
-                    <p>Porttitor communicate pandemic data rather than enabled niche pandemic data rather markets neque pulvinar vitae.</p>
-                </div>
-            </div><!-- /.featured-item -->
-        </div><!-- /.col-md-4 -->                                  
-    </div><!-- /.row -->
-
-</div><!-- /.container -->
-</section>
-
-
-<section class="banner-wrapper parallax-bg banner-5 overlay dark-5 padding-top-100" data-stellar-background-ratio="0.1">
-    <div class="container">
-      <div class="mb-80 text-center">
-          <h2 class="font-30 white-text text-extrabold text-uppercase">Huge Demo With Unlimited Features</h2>
-
-          <p class="white-text width-60 mb-30">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam</p>
-
-          <a href="#" class="btn btn-lg pink waves-effect waves-light text-medium">Buy Now</a>
-
-      </div><!-- /.hero-intro -->
   </div><!-- /.container -->
-
-  <div class="mocup-wrapper text-center">
-    <img src="assets/img/mockup/mockup.png" alt="image">
-</div>
 </section>
-
-
-<section class="section-padding">
-    <div class="container">
-
-      <div class="text-center mb-50">
-          <h2 class="section-title text-uppercase">Works</h2>
-          <p class="section-sub">Quisque non erat mi. Etiam congue et augue sed tempus. Aenean sed ipsum luctus, scelerisque ipsum nec, iaculis justo. Sed at vestibulum purus, sit amet viverra diam. Nulla ac nisi rhoncus,</p>
-      </div>
-
-      <div class="portfolio-container text-center">
-          <ul class="portfolio-filter brand-filter">
-              <li class="active waves-effect waves-light" data-group="all">All</li>
-              <li class="waves-effect waves-light" data-group="websites">Websites</li>
-              <li class="waves-effect waves-light" data-group="branding">Branding</li>
-              <li class="waves-effect waves-light" data-group="marketing">Marketing</li>
-              <li class="waves-effect waves-light" data-group="photography">Photography</li>
-          </ul>
-
-          <div class="portfolio portfolio-with-title col-3 gutter mt-50">
-
-              <div class="portfolio-item" data-groups='["all", "branding", "photography"]'>
-                  <div class="portfolio-wrapper">
-
-                    <div class="thumb">
-                        <div class="bg-overlay brand-overlay"></div>
-                        <img src="assets/img/portfolio/portfolio-1.jpg" alt="">
-
-                        <div class="portfolio-intro">
-                          <div class="action-btn">
-                            <a href="assets/img/portfolio/portfolio-1.jpg" class="tt-lightbox" title="iOS Game Design"> <i class="fa fa-search"></i></a>
-                        </div>
-                    </div>
-                </div><!-- thumb -->
-
-                <div class="portfolio-title">
-                    <h2><a href="#">Portfolio Title</a></h2>
-                    <p><a href="#">iOS Design</a> </p>
-                </div>
-
-            </div><!-- /.portfolio-wrapper -->
-        </div><!-- /.portfolio-item -->
-
-        <div class="portfolio-item" data-groups='["all", "marketing", "websites"]'> 
-            <div class="portfolio-wrapper">
-              <div class="thumb">
-                  <div class="bg-overlay brand-overlay"></div>
-                  <img src="assets/img/portfolio/portfolio-2.jpg" alt="">
-
-                  <div class="portfolio-intro">
-                    <div class="action-btn">
-                        <a href="assets/img/portfolio/portfolio-2.jpg" class="tt-lightbox" title=""> <i class="fa fa-search"></i></a>
-                    </div>
-                </div>
-            </div>
-            <div class="portfolio-title">
-              <h2><a href="#">Portfolio Title</a></h2>
-              <p><a href="#">Branding</a> </p>
-          </div>
-
-      </div><!-- /.portfolio-wrapper -->
-  </div><!-- /.portfolio-item -->
-
-  <div class="portfolio-item" data-groups='["all", "photography", "branding"]'>
-
-    <div class="portfolio-wrapper">
-      <div class="thumb">
-          <div class="bg-overlay brand-overlay"></div>
-          <img src="assets/img/portfolio/portfolio-3.jpg" alt="">
-
-          <div class="portfolio-intro">
-            <div class="action-btn">
-                <a href="assets/img/portfolio/portfolio-3.jpg" class="tt-lightbox" title=""> <i class="fa fa-search"></i></a>
-            </div>
-        </div>
-    </div>
-    <div class="portfolio-title">
-      <h2><a href="#">Portfolio Title</a></h2>
-      <p><a href="#">Branding</a> </p>
-  </div>
-
-</div><!-- /.portfolio-wrapper -->
-</div><!-- /.portfolio-item -->
-
-<div class="portfolio-item" data-groups='["all", "websites", "branding"]'>
-    <div class="portfolio-wrapper">
-      <div class="thumb">
-          <div class="bg-overlay brand-overlay"></div>
-          <img src="assets/img/portfolio/portfolio-4.jpg" alt="">
-
-          <div class="portfolio-intro">
-            <div class="action-btn">
-                <a href="assets/img/portfolio/portfolio-4.jpg" class="tt-lightbox" title=""> <i class="fa fa-search"></i></a>
-            </div>
-        </div>
-    </div>
-    <div class="portfolio-title">
-      <h2><a href="#">Portfolio Title</a></h2>
-      <p><a href="#">Branding</a> </p>
-  </div>
-
-</div><!-- /.portfolio-wrapper -->
-</div><!-- /.portfolio-item -->
-
-<div class="portfolio-item" data-groups='["all", "photography", "marketing"]'>
-    <div class="portfolio-wrapper">
-      <div class="thumb">
-          <div class="bg-overlay brand-overlay"></div>
-          <img src="assets/img/portfolio/portfolio-5.jpg" alt="">
-
-          <div class="portfolio-intro">
-            <div class="action-btn">
-                <a href="assets/img/portfolio/portfolio-5.jpg" class="tt-lightbox" title=""> <i class="fa fa-search"></i></a>
-            </div>
-        </div>
-    </div>
-    <div class="portfolio-title">
-      <h2><a href="#">Portfolio Title</a></h2>
-      <p><a href="#">Branding</a> </p>
-  </div>
-
-</div><!-- /.portfolio-wrapper -->
-</div><!-- /.portfolio-item -->
-
-<div class="portfolio-item" data-groups='["all", "websites",  "marketing"]'>
-    <div class="portfolio-wrapper">
-      <div class="thumb">
-          <div class="bg-overlay brand-overlay"></div>
-          <img src="assets/img/portfolio/portfolio-6.jpg" alt="">
-
-          <div class="portfolio-intro">
-            <div class="action-btn">
-                <a href="#."> <i class="fa fa-link"></i>  </a>
-            </div>
-        </div>
-    </div>
-    <div class="portfolio-title">
-      <h2><a href="#">Portfolio Title</a></h2>
-      <p><a href="#">Branding</a> </p>
-  </div>
-
-</div><!-- /.portfolio-wrapper -->
-</div><!-- /.portfolio-item -->
-
-</div><!-- /.portfolio -->
-
-</div><!-- portfolio-container -->
-
-</div><!-- /.container -->
-</section>
-
 
 <section class="padding-top-110 padding-bottom-70 brand-bg">
   <div class="container">
     <div class="row">
-      <div class="col-md-8 col-md-offset-2">
-          <div class="quote-carousel text-center">
-
-              <div class="carousel-item">
-                  <div class="content">
-                      <h2 class="white-text line-height-40">"My favorite things in life don't cost any money. It's really clear that the most precious resource we all have is time."</h2>
-
-                      <div class="testimonial-meta font-20 text-extrabold white-text">
-                          Steve Jobes
-                      </div>
-                  </div><!-- /.content -->
-              </div><!-- /.carousel-item -->
-
-              <div class="carousel-item">
-                  <div class="content">
-                      <h2 class="white-text line-height-40">"My favorite things in life don't cost any money. It's really clear that the most precious resource we all have is time."</h2>
-
-                      <div class="testimonial-meta font-20 text-extrabold white-text">
-                          Steve Jobes
-                      </div>
-                  </div><!-- /.content -->
-              </div><!-- /.carousel-item -->
-
-              <div class="carousel-item">
-                  <div class="content">
-                      <h2 class="white-text line-height-40">"My favorite things in life don't cost any money. It's really clear that the most precious resource we all have is time."</h2>
-
-                      <div class="testimonial-meta font-20 text-extrabold white-text">
-                          Steve Jobes
-                      </div>
-                  </div><!-- /.content -->
-              </div><!-- /.carousel-item -->
-          </div>
-      </div><!-- /.col-md-8 -->
-  </div><!-- /.row -->
-</div><!-- /.container -->
+      <div class="text-center mb-80">
+        <h3 class="section-title text-uppercase white-text">" DESCÚBRE LOS BENEFICIOS DE NUESTRO</h3>
+        <h3 class="section-title text-uppercase white-text"><strong><a href="tratamiento.php" class="white-text">METODO VRANFCUA</a></strong> "</h3>
+        <!-- <p class="section-sub"></p> -->
+      </div>
+    </div><!-- /.row -->
+  </div><!-- /.container -->
 </section>
 
 
 <section class="section-padding">
-    <div class="container">
+  <div class="container">
 
-      <div class="text-center mb-80">
-          <h2 class="section-title text-uppercase">Awesome clients</h2>
-          <p class="section-sub">Quisque non erat mi. Etiam congue et augue sed tempus. Aenean sed ipsum luctus, scelerisque ipsum nec, iaculis justo. Sed at vestibulum purus, sit amet viverra diam. Nulla ac nisi rhoncus,</p>
-      </div>
+    <div class="row">
 
-      <div class="clients-grid gutter">
-        <div class="row">
-          <div class="col-md-3 col-sm-6">
-              <div class="border-box">
-                  <a href="#">
-                    <img src="assets/img/client-logo/1.png" alt="clients">
-                </a>
-            </div><!-- /.border-box -->
-        </div><!-- /.col-md-3 -->
+    <div class="col-md-7 wow fadeInLeft">
 
-        <div class="col-md-3 col-sm-6">
-          <div class="border-box">
-              <a href="#">
-                <img src="assets/img/client-logo/2.png" alt="clients">
-            </a>
-        </div><!-- /.border-box -->
-    </div><!-- /.col-md-3 -->
+        <h2>¿Te gustaría ser parte de nuestro gran equipo de médicos?</h2>
 
-    <div class="col-md-3 col-sm-6">
-      <div class="border-box">
-          <a href="#">
-            <img src="assets/img/client-logo/4.png" alt="clients">
-        </a>
-    </div><!-- /.border-box -->
-</div><!-- /.col-md-3 -->
+        <p>En Megasalud nos interesa contar con médicos especializados en <strong><a href="enfermedades.php">enfermedades autoinmunes</a></strong>, que puedan dar una alternativa natural, a los pacientes de diabetes, cáncer, asma, vitíligo, artritis y demás padecimientos de tipo autoinmune que afectan a más del 30% de la población mexicana.</p>
 
-<div class="col-md-3 col-sm-6">
-  <div class="border-box">
-      <a href="#">
-        <img src="assets/img/client-logo/5.png" alt="clients">
-    </a>
-</div><!-- /.border-box -->
-</div><!-- /.col-md-3 -->
-</div><!-- /.row -->
-</div><!-- /.clients-grid -->
+        <p>En Megasalud contamos con capacitación constante y múltiples recursos en línea, hoy tu puedes ser parte fundamental de este gran equipo y contribuir a mejorar la salud de muchos pacientes.</p>
 
-</div><!-- /.container -->
-</section>
+        <a class="waves-effect waves-light btn green" href="contacto.php"><i class="material-icons left">&#xE876;</i>Ser parte de Megasalud</a>
+      </div><!-- /.col-md-7 -->
 
+      <div class="col-md-5 wow fadeInDown" data-wow-delay=".2s">
+        <div class="hero-thumb">
+          <img src="assets/img/megasalud/medicos.jpg" class="img-responsive">            
+        </div><!-- /.gallery-thumb -->
+      </div><!-- /.col-md-5 -->
 
-<section class="section-padding latest-news-card gray-bg">
-    <div class="container">
+    </div>
 
-      <div class="text-center mb-80">
-          <h2 class="section-title text-uppercase">Blog</h2>
-          <p class="section-sub">Quisque non erat mi. Etiam congue et augue sed tempus. Aenean sed ipsum luctus, scelerisque ipsum nec, iaculis justo. Sed at vestibulum purus, sit amet viverra diam. Nulla ac nisi rhoncus,</p>
-      </div>
-
-
-      <div class="blog-carousel">
-          <article class="card">
-            <div class="card-image waves-effect waves-block waves-light">
-              <img class="activator" src="assets/img/blog/1.jpg" alt="image">
-          </div>
-          <div class="card-content">
-              <h2 class="entry-title activator">The Future of Web Design is Hidden in the History of Architecture..</h2>
-          </div>
-          <div class="card-reveal overlay-blue">
-              <span class="card-title close-button"><i class="fa fa-times"></i></span>
-              <a class="posted-on" href="#">Branding</a>
-              <h2 class="entry-title"><a href="#">The Future of Web Design</a></h2>
-              <p>Authoritatively grow quality technologies for strategic sources. Dramatically evolve front-end services.</p>
-              <a href="#" class="readmore">Read Full Post <i class="fa fa-long-arrow-right"></i></a>
-          </div>
-      </article><!-- /.card -->
-
-      <article class="card">
-        <div class="card-image waves-effect waves-block waves-light">
-          <img class="activator" src="assets/img/blog/2.jpg" alt="image">
-      </div>
-      <div class="card-content">
-          <h2 class="entry-title activator">7 Things Every Designer Needs to Know about Accessibility..</h2>
-      </div>
-      <div class="card-reveal overlay-blue">
-          <span class="card-title close-button"><i class="fa fa-times"></i></span>
-          <a class="posted-on" href="#">Branding</a>
-          <h2 class="entry-title"><a href="#">7 Things Every Designer Needs</a></h2>
-          <p>Authoritatively grow quality technologies for strategic sources. Dramatically evolve front-end services.</p>
-          <a href="#" class="readmore">Read Full Post <i class="fa fa-long-arrow-right"></i></a>
-      </div>
-  </article><!-- /.card -->
-
-  <article class="card">
-    <div class="card-image waves-effect waves-block waves-light">
-      <img class="activator" src="assets/img/blog/3.jpg" alt="image">
-  </div>
-  <div class="card-content">
-      <h2 class="entry-title activator">16 Web & Graphic Design Trends To Watch In 2016...</h2>
-  </div>
-  <div class="card-reveal overlay-blue">
-      <span class="card-title close-button"><i class="fa fa-times"></i></span>
-      <a class="posted-on" href="#">Branding</a>
-      <h2 class="entry-title"><a href="#">16 Web & Graphic Design Trends</a></h2>
-      <p>Authoritatively grow quality technologies for strategic sources. Dramatically evolve front-end services.</p>
-      <a href="#" class="readmore">Read Full Post <i class="fa fa-long-arrow-right"></i></a>
-  </div>
-</article><!-- /.card -->
-
-<article class="card">
-    <div class="card-image waves-effect waves-block waves-light">
-      <img class="activator" src="assets/img/blog/4.jpg" alt="image">
-  </div>
-  <div class="card-content">
-      <h2 class="entry-title activator">The rise of the “Full Stack” Designer and the tools they use..</h2>
-  </div>
-  <div class="card-reveal overlay-blue">
-      <span class="card-title close-button"><i class="fa fa-times"></i></span>
-      <a class="posted-on" href="#">Branding</a>
-      <h2 class="entry-title"><a href="#">The rise of the Designer</a></h2>
-      <p>Authoritatively grow quality technologies for strategic sources. Dramatically evolve front-end services.</p>
-      <a href="#" class="readmore">Read Full Post <i class="fa fa-long-arrow-right"></i></a>
-  </div>
-</article><!-- /.card -->
-</div>
-
-</div><!-- /.container -->
+  </div><!-- /.container -->
 </section>
 
 <?php include ('footer.php'); ?>
@@ -700,6 +316,7 @@ style="z-index: 7; white-space: nowrap;">
 <script src="assets/owl.carousel/owl.carousel.min.js"></script>
 <script src="assets/flexSlider/jquery.flexslider-min.js"></script>
 <script src="assets/magnific-popup/jquery.magnific-popup.min.js"></script>
+<script src="assets/js/wow.min.js"></script>
 <script src="assets/js/scriptsc81e.js?2"></script>
 
 <!-- RS5.0 Core JS Files -->
@@ -708,51 +325,55 @@ style="z-index: 7; white-space: nowrap;">
 
 <!-- RS5.0 Init  -->
 <script type="text/javascript">
-    jQuery(document).ready(function() {
-       jQuery(".matrox-slider").revolution({
-            sliderType:"standard",
-            sliderLayout:"fullscreen",
-            delay:9000,
-            navigation: {
-                keyboardNavigation:"off",
-                keyboard_direction: "horizontal",
-                mouseScrollNavigation:"off",
-                onHoverStop:"off",
-                arrows: {
-                    style:"hebe",
-                    enable:true,
-                    hide_onmobile:true,
-                    hide_under:600,
-                    hide_onleave:true,
-                    hide_delay:200,
-                    hide_delay_mobile:1200,
-                    tmp:'<div class="tp-title-wrap">    <div class="tp-arr-imgholder"></div>    <div class="tp-arr-img-over"></div> <span class="tp-arr-titleholder">{{title}}</span> </div>',
-                    left: {
-                        h_align:"left",
-                        v_align:"center",
-                        h_offset:30,
-                        v_offset:0
-                    },
-                    right: {
-                        h_align:"right",
-                        v_align:"center",
-                        h_offset:30,
-                        v_offset:0
-                    }
-                }
-            },
-            responsiveLevels:[1240,1024,778,480],
-            gridwidth:[1240,1024,778,480],
-            gridheight:[700,600,500,500],
-            parallax: {
-                type:"mouse",
-                origo:"slidercenter",
-                speed:2000,
-                levels:[2,3,4,5,6,7,12,16,10,50],
-            },
+  jQuery(document).ready(function() {
+   jQuery(".matrox-slider").revolution({
+    sliderType:"standard",
+    sliderLayout:"fullscreen",
+    delay:9000,
+    navigation: {
+      keyboardNavigation:"off",
+      keyboard_direction: "horizontal",
+      mouseScrollNavigation:"off",
+      onHoverStop:"off",
+      arrows: {
+        style:"",
+        enable:true,
+        hide_onmobile:true,
+        hide_under:600,
+        hide_onleave:true,
+        hide_delay:200,
+        hide_delay_mobile:1200,
+        left: {
+          h_align:"left",
+          v_align:"center",
+          h_offset:30,
+          v_offset:0
+        },
+        right: {
+          h_align:"right",
+          v_align:"center",
+          h_offset:30,
+          v_offset:0
+        }
+      }
+    },
+    responsiveLevels:[1240,1024,778,480],
+    gridwidth:[1240,1024,778,480],
+    gridheight:[700,600,500,500],
+    parallax: {
+      type:"mouse",
+      origo:"slidercenter",
+      speed:2000,
+      levels:[2,3,4,5,6,7,12,16,10,50],
+    },
 
-        });
-    });
+  });
+ });
+</script>
+<script>
+  new WOW({
+    mobile:  false
+  }).init();
 </script>
 
 
