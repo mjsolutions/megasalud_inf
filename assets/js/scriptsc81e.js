@@ -494,6 +494,32 @@
         /* ======= shuffle js ======= */
         $(window).on('load', function () {
 
+            $('.product-container').each(function(i, e){
+
+                var ttGrid = $(this).find('.product');
+                var self = this;
+                ttGrid.shuffle({
+                    itemSelector: '.product-item' // the selector for the items in the grid
+                });
+
+                /* reshuffle when user clicks button filter item */
+                $(this).find('.product-filter li a').on('click',function (e) {
+                    e.preventDefault();
+
+                    // get group name from clicked item
+                    var ttGroupName = $(this).attr('data-group');
+
+                    // reshuffle grid
+                    ttGrid.shuffle('shuffle', ttGroupName);
+                });
+
+            });
+
+        });
+
+        /* version original
+        $(window).on('load', function () {
+
             $('.portfolio-container').each(function(i, e){
 
                 var ttGrid = $(this).find('.portfolio');
@@ -502,7 +528,7 @@
                     itemSelector: '.portfolio-item' // the selector for the items in the grid
                 });
 
-                /* reshuffle when user clicks button filter item */
+                //reshuffle when user clicks button filter item 
                 $(this).find('.portfolio-filter li').on('click',function (e) {
                     e.preventDefault();
 
@@ -520,6 +546,9 @@
             });
 
         });
+
+
+        */
 
 
         /* ======= Portfolio Slider ======= */

@@ -150,7 +150,7 @@
 
 						<li><a href="javascript:void(0)">Tienda</a>
 							<ul class="dropdown">
-								<li><a href="#">Catálogo completo</a></li>
+								<li><a href="tienda.php">Catálogo completo</a></li>
 								<li><a href="#">Línea Salud</a></li>
 								<li><a href="#">Línea Nutrición</a></li>								
 								<li><a href="#">Línea Belleza</a></li>								
