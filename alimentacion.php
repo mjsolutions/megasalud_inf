@@ -84,34 +84,6 @@
       <div class="row">
 
         <div class="col-center col-md-11"><div class="col-md-3 wow fadeInLeft" data-wow-delay=".2s">
-<<<<<<< HEAD
-            <div class="featured-item flat-border-box blue">
-              <div class="desc">
-                <h2 class="white-text text-center">Nutrimento <br><small class="white-text">(alimento)</small></h2>
-              </div>
-            </div><!-- /.featured-item -->
-          </div><!-- /.col-md-4 -->
-          
-          <div class="btn-floating icon-center btn-large red col-md-1 mt-30 wow fadeInLeft" data-wow-delay=".8s"><i class="material-icons">add</i></div>
-          
-          <div class="col-md-3 wow fadeInLeft" data-wow-delay="1.4s">
-            <div class="featured-item flat-border-box green">
-              <div class="desc">
-                <h2 class="white-text text-center">Farmacéutico <br><small class="white-text">(activo natural-medicinal)</small></h2>
-              </div>
-            </div><!-- /.featured-item -->
-          </div><!-- /.col-md-4 -->
-          
-          <div class="btn-floating icon-center btn-large red col-md-1 mt-30 wow fadeInLeft" data-wow-delay="2s"><i class="material-icons">drag_handle</i></div>
-          
-          <div class="col-md-4 wow fadeInLeft" data-wow-delay="2.6s">
-            <div class="featured-item flat-border-box orange">
-              <div class="desc">
-                <h2 class="white-text text-center">NUTRACEUTICO <br><small class="white-text">Restablece funciones del organismo</small></h2>
-              </div>
-            </div><!-- /.featured-item -->
-          </div><!-- /.col-md-4 --></div>
-=======
           <div class="featured-item flat-border-box blue">
             <div class="desc">
               <h2 class="white-text text-center">Nutrimento <br><small class="white-text">(alimento)</small></h2>
@@ -138,14 +110,10 @@
             </div>
           </div><!-- /.featured-item -->
         </div><!-- /.col-md-4 --></div>
->>>>>>> origin/master
-
 
       </div><!-- /.row -->
 
     </div>
-<<<<<<< HEAD
-  </div>
 
 </section>
 <!-- Content end -->
@@ -175,37 +143,6 @@
     mobile:  false
   }).init();
 </script>
-=======
-
-  </section>
-  <!-- Content end -->
-
-  <?php include ('footer.php'); ?>
-
-  <!-- jQuery -->
-  <script src="assets/js/jquery-2.1.3.min.js"></script>
-  <script src="assets/bootstrap/js/bootstrap.min.js"></script>
-  <script src="assets/materialize/js/materialize.min.js"></script>
-  <script src="assets/js/jquery.easing.min.js"></script>
-  <script src="assets/js/jquery.sticky.min.js"></script>
-  <script src="assets/js/smoothscroll.min.js"></script>
-  <script src="assets/js/imagesloaded.js"></script>
-  <script src="assets/js/jquery.stellar.min.js"></script>
-  <script src="assets/js/wow.min.js"></script>
-  <script src="assets/js/jquery.inview.min.js"></script>
-  <script src="assets/js/jquery.shuffle.min.js"></script>
-  <script src="assets/js/menuzord.js"></script>
-  <script src="assets/js/bootstrap-tabcollapse.min.js"></script>
-  <script src="assets/owl.carousel/owl.carousel.min.js"></script>
-  <script src="assets/flexSlider/jquery.flexslider-min.js"></script>
-  <script src="assets/magnific-popup/jquery.magnific-popup.min.js"></script>
-  <script src="assets/js/scriptsc81e.js?2"></script>
-  <script>
-    new WOW({
-      mobile:  false
-    }).init();
-  </script>
->>>>>>> origin/master
 </body>
 
 </html>

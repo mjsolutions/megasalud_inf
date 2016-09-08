@@ -13,7 +13,7 @@
   <meta property="og:url"  content="http://megasalud.com.mx/" />
   <meta property="og:title" content="Megasalud Internacional" />
   <meta property="og:description" content="Somos especialistas en el cuidado de tu salud a través de tratamientos médicos naturales, alternativos y no invasivos, diseñados especialmente para mejorar la calidad de vida de personas que padecen alguna enfermedad autoinmune" />
-  <meta property="og:image" content="http://megasalud.com.mx/img/megasalud/MegaSalud Internacional.jpg" />
+  <meta property="og:image" content="http://megasalud.com.mx/assets/img/megasalud/megasalud-internacional.jpg" />
 
   <title>Megasalud Internacional</title>
 
