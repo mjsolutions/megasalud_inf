@@ -2,169 +2,175 @@
 <html lang="es">
 
 <head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="">
-  <meta name="keywords" content="">
-  <meta name="author" content="megasalud">
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="description" content="Megasalud nace en 2002, al detectar la necesidad de atender a pacientes que padecen algún trastorno en su sistema inmunológico o alguna enfermedad autoinmune, que en México representan entre el 35% y 45% de la población nacional">
+	<meta name="keywords" content="">
+	<meta name="author" content="Megasalud Internacional">
 
-  <title>¿Quiénes somos?</title>
-  
-  <?php include ('head.php') ?>    
+	 <!-- Metas Facebook -->
+	<meta property="og:url"  content="http://megasalud.com.mx/quienes-somos.php" />
+	<meta property="og:title" content="Megasalud Internacional" />
+	<meta property="og:description" content="Megasalud nace en 2002, al detectar la necesidad de atender a pacientes que padecen algún trastorno en su sistema inmunológico o alguna enfermedad autoinmune, que en México representan entre el 35% y 45% de la población nacional" />
+	<meta property="og:image" content="http://megasalud.com.mx/assets/img/megasalud/logo-madera.jpg" />
 
-  <!--page title start-->
-  <section class="page-title parallax-bg page-title-bg overlay dark-5 padding-top-140 padding-bottom-150" data-stellar-background-ratio="0.5">
-    <div class="container">
-      <div class="row">
-        <div class="col-md-12">
-          <h2 class="white-text">¿QUIÉNES SOMOS?</h2>
-          <span class="white-text">Conoce un poco de nosotros</span>
-          <ol class="breadcrumb">
-            <li><a href="index.php">Home</a></li>
-            <!-- <li><a href="#">Shortcodes</a></li> -->
-            <li class="active">¿Quiénes somos?</li>
-          </ol>
-        </div>
-      </div>
-    </div>
-  </section>
-  <!--page title end-->    
+	<title>¿Quiénes somos?</title>
+	
+	<?php include ('head.php') ?>    
 
-  <section class="section-padding">
-    <div class="container">
+	<!--page title start-->
+	<section class="page-title parallax-bg page-title-bg overlay dark-5 padding-top-140 padding-bottom-150" data-stellar-background-ratio="0.5">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12">
+					<h2 class="white-text">¿QUIÉNES SOMOS?</h2>
+					<span class="white-text">Conoce un poco de nosotros</span>
+					<ol class="breadcrumb">
+						<li><a href="index.php">Home</a></li>
+						<!-- <li><a href="#">Shortcodes</a></li> -->
+						<li class="active">¿Quiénes somos?</li>
+					</ol>
+				</div>
+			</div>
+		</div>
+	</section>
+	<!--page title end-->    
 
-     <!--  <h2 class="font-30 text-medium mb-30">¿QUIÉNES SOMOS?</h2> -->
-     <div class="row">
-      <div class="col-md-7 wow fadeInUp">
+	<section class="section-padding">
+		<div class="container">
 
-        <p>Una empresa orgullosamente mexicana dedicada al cuidado de tu salud, a través de <strong><a href="tratamientos.php">tratamientos</a></strong> médicos naturales, alternativos y no invasivos, especialmente diseñados para mejorar la calidad de vida de personas que padecen algún trastorno en su sistema inmunológico o alguna <strong><a href="enfermedad-autoinmune.php">enfermedad autoinmune</a></strong></p>
+		 <!--  <h2 class="font-30 text-medium mb-30">¿QUIÉNES SOMOS?</h2> -->
+		 <div class="row">
+			<div class="col-md-7 wow fadeInUp">
 
-        <h2>Origen</h2>
+				<p>Una empresa orgullosamente mexicana dedicada al cuidado de tu salud, a través de <strong><a href="tratamientos.php">tratamientos</a></strong> médicos naturales, alternativos y no invasivos, especialmente diseñados para mejorar la calidad de vida de personas que padecen algún trastorno en su sistema inmunológico o alguna <strong><a href="enfermedades.php">enfermedad autoinmune</a></strong></p>
 
-        <p>Megasalud nace en 2002, al detectar la necesidad de atender a pacientes que padecen algún trastorno en su sistema inmunológico o alguna enfermedad autoinmune, que en México representan entre el 35% y 45% de la población nacional.</p>
+				<h2>Origen</h2>
 
-        <p>La mayoría de estos pacientes está siendo tratados con métodos convencionales que normalmente los desgastan físicamente con medicamentos o tratamientos que tienen efectos secundarios y son esclavizantes; económicamente por lo caros que resultan y emocionalmente por el dolor y la carga que la enfermedad y la incertidumbre ocasionan. Todo esto contribuye a un deterioro en su calidad de vida.</p>
+				<p>Megasalud nace en 2002, al detectar la necesidad de atender a pacientes que padecen algún trastorno en su sistema inmunológico o alguna enfermedad autoinmune, que en México representan entre el 35% y 45% de la población nacional.</p>
 
-      </div><!-- /.col-md-7 -->
+				<p>La mayoría de estos pacientes está siendo tratados con métodos convencionales que normalmente los desgastan físicamente con medicamentos o tratamientos que tienen efectos secundarios y son esclavizantes; económicamente por lo caros que resultan y emocionalmente por el dolor y la carga que la enfermedad y la incertidumbre ocasionan. Todo esto contribuye a un deterioro en su calidad de vida.</p>
 
-      <div class="col-md-5 wow fadeInUp" data-wow-delay=".2s">
-        <div class="gallery-thumb">
-          <ul class="slides">
-            <li data-thumb="assets/img/megasalud/logo-madera.jpg">
-              <img src="assets/img/megasalud/logo-madera.jpg" alt="image">
-            </li>
-            <li data-thumb="assets/img/megasalud/medico.jpg">
-              <img src="assets/img/megasalud/medico.jpg" alt="image">
-            </li>
-            <li data-thumb="assets/img/megasalud/logo-mega-madera.jpg">
-              <img src="assets/img/megasalud/logo-mega-madera.jpg" alt="image">
-            </li>
-          </ul>
-        </div><!-- /.gallery-thumb -->
-      </div><!-- /.col-md-5 -->
-    </div><!-- /.row -->
-  </div><!-- /.container -->
+			</div><!-- /.col-md-7 -->
+
+			<div class="col-md-5 wow fadeInUp" data-wow-delay=".2s">
+				<div class="gallery-thumb">
+					<ul class="slides">
+						<li data-thumb="assets/img/megasalud/logo-madera.jpg">
+							<img src="assets/img/megasalud/logo-madera.jpg" alt="image">
+						</li>
+						<li data-thumb="assets/img/megasalud/medico.jpg">
+							<img src="assets/img/megasalud/medico.jpg" alt="image">
+						</li>
+						<li data-thumb="assets/img/megasalud/logo-mega-madera.jpg">
+							<img src="assets/img/megasalud/logo-mega-madera.jpg" alt="image">
+						</li>
+					</ul>
+				</div><!-- /.gallery-thumb -->
+			</div><!-- /.col-md-5 -->
+		</div><!-- /.row -->
+	</div><!-- /.container -->
 </section>
 
 
 
 <section class="padding-top-90 padding-bottom-70 banner-wrapper parallax-bg banner-7 overlay dark-6" data-stellar-background-ratio="0.5">
-  <div class="container">
+	<div class="container">
 
-    <div class="text-center mb-80 wow fadeInUp" data-wow-delay=".2s">
-      <h1 class="white-text"><i>¡Tu salud en buenas manos!</i></h1>
-    </div>
+		<div class="text-center mb-80 wow fadeInUp" data-wow-delay=".2s">
+			<h1 class="white-text"><i>¡Tu salud en buenas manos!</i></h1>
+		</div>
 
-  </div><!-- /.container -->
+	</div><!-- /.container -->
 </section>
 
 
 
 <section class="padding-top-120 padding-bottom-80">
-  <div class="container">
-    <div class="row">
+	<div class="container">
+		<div class="row">
 
-      <div class="col-md-12 wow fadeInUp" data-wow-delay=".2s">
-        <!-- <h2 class="text-medium mb-30">Why Choose Matrox?</h2> -->
-        <div class="panel-group feature-accordion brand-accordion icon angle-icon" id="accordion-one">
-          <div class="panel panel-default">
-            <div class="panel-heading">
-              <h3 class="panel-title">
-                <a data-toggle="collapse" data-parent="#accordion-one" href="#collapse-one">
-                  Nuestra Misión
-                </a>
-              </h3>
-            </div>
-            <div id="collapse-one" class="panel-collapse collapse in">
-              <div class="panel-body">
-                Mejorar la calidad de vida de pacientes con enfermedades autoinmunes a través de un tratamiento eficiente, seguro y no invasivo, brindado con un excelente servicio por médicos altamente capacitados logrando una mejora sustancial en el estilo de vida del paciente. 
-              </div>
-            </div>
-          </div>
-          <div class="panel panel-default">
-            <div class="panel-heading">
-              <h3 class="panel-title">
-                <a class="collapsed" data-toggle="collapse" data-parent="#accordion-one" href="#collapse-two">
-                  Nuestra Visión
-                </a>
-              </h3>
-            </div>
-            <div id="collapse-two" class="panel-collapse collapse">
-              <div class="panel-body">
-                Ser la empresa líder en el tratamiento de enfermedades autoinmunes, optimizando continuamente nuestro método de curación para mejorar la calidad de vida y curar a pacientes de todo el país, a través de clínicas y médicos altamente especializados que brinden un servicio humano de excelencia ya que para nosotros la mejora en el estilo de vida de nuestros pacientes es lo más importante. 
-              </div>
-            </div>
-          </div>
-          <div class="panel panel-default">
-            <div class="panel-heading">
-              <h3 class="panel-title">
-                <a class="collapsed" data-toggle="collapse" data-parent="#accordion-one" href="#collapse-three">
-                  Nuestra Promesa
-                </a>
-              </h3>
-            </div>
-            <div id="collapse-three" class="panel-collapse collapse">
-              <div class="panel-body">
-                Megasalud internacional se preocupa por recuperar sustancialmente la calidad de vida de los pacientes, innovando con productos naturales que lo equilibren, llevándolo a estado de curación sin daños colaterales o reacciones indeseadas, brindando una atención integral que les permita mejorar su estilo de vida.
-              </div>
-            </div>
-          </div>
-          <div class="panel panel-default">
-            <div class="panel-heading">
-              <h3 class="panel-title">
-                <a class="collapsed" data-toggle="collapse" data-parent="#accordion-one" href="#collapse-four">
-                  ¿Cómo es el tratamiento?
-                </a>
-              </h3>
-            </div>
-            <div id="collapse-four" class="panel-collapse collapse">
-              <div class="panel-body">
-                Megasalud desarrollo el método <a href="">Vranfcua</a>, que combina las propiedades terapéuticas de varios <a href="">hongos medicinales</a>, un aminoácido natural y la auto hemoterapia. Dando como resultado elevar el sistema inmunológico de nuestros pacientes dándoles la capacidad de responder ante las agresiones de la enfermedad que padece, el aminoácido se emplea para recobrar la flexibilidad de las arterias y tejidos, recobrando la motricidad de los pacientes, y la auto hemoterapia combate directamente a los antígenos que provocan el padecimiento creando una vacuna personalizada para cada paciente, creando una memoria genética y eliminando a los auto anticuerpos que atacan al paciente. <a href="">Conoce más del tratamiento</a>.
-              </div>
-            </div>
-          </div>
-          <div class="panel panel-default">
-            <div class="panel-heading">
-              <h3 class="panel-title">
-                <a class="collapsed" data-toggle="collapse" data-parent="#accordion-one" href="#collapse-five">
-                  ¿Para quién?
-                </a>
-              </h3>
-            </div>
-            <div id="collapse-five" class="panel-collapse collapse">
-              <div class="panel-body">
-                Nuestro método está dirigido a todos los pacientes que tienen comprometido su sistema inmunológico o algún <a href="">padecimiento autoinmune</a>, a quienes atendemos a través de nuestra <a href="">red de médicos</a> especializados y certificados en el tratamiento de <a href="">enfermedades autoinmunes</a>. <br>
-                También nos encargamos de ofrecer <a href="">productos naturales</a> que estimulan las defensas y aumentan la eficiencia del tratamiento, al formar parte de la dieta diaria. <br>
-                Si eres médico, Megasalud se preocupa por ofrecer <a href="">capacitación constante</a>, ya que estamos expandiendo nuestra <a href="">red de consultorios</a>, invitando a nuevos médicos a que sean parte de la familia Megasalud Internacional.
-              </div>
-            </div>
-          </div>
-        </div>                  
-      </div><!-- /.col-md-12 -->
+			<div class="col-md-12 wow fadeInUp" data-wow-delay=".2s">
+				<!-- <h2 class="text-medium mb-30">Why Choose Matrox?</h2> -->
+				<div class="panel-group feature-accordion brand-accordion icon angle-icon" id="accordion-one">
+					<div class="panel panel-default">
+						<div class="panel-heading">
+							<h3 class="panel-title">
+								<a data-toggle="collapse" data-parent="#accordion-one" href="#collapse-one">
+									Nuestra Misión
+								</a>
+							</h3>
+						</div>
+						<div id="collapse-one" class="panel-collapse collapse in">
+							<div class="panel-body">
+								Mejorar la calidad de vida de pacientes con enfermedades autoinmunes a través de un tratamiento eficiente, seguro y no invasivo, brindado con un excelente servicio por médicos altamente capacitados logrando una mejora sustancial en el estilo de vida del paciente. 
+							</div>
+						</div>
+					</div>
+					<div class="panel panel-default">
+						<div class="panel-heading">
+							<h3 class="panel-title">
+								<a class="collapsed" data-toggle="collapse" data-parent="#accordion-one" href="#collapse-two">
+									Nuestra Visión
+								</a>
+							</h3>
+						</div>
+						<div id="collapse-two" class="panel-collapse collapse">
+							<div class="panel-body">
+								Ser la empresa líder en el tratamiento de enfermedades autoinmunes, optimizando continuamente nuestro método de curación para mejorar la calidad de vida y curar a pacientes de todo el país, a través de clínicas y médicos altamente especializados que brinden un servicio humano de excelencia ya que para nosotros la mejora en el estilo de vida de nuestros pacientes es lo más importante. 
+							</div>
+						</div>
+					</div>
+					<div class="panel panel-default">
+						<div class="panel-heading">
+							<h3 class="panel-title">
+								<a class="collapsed" data-toggle="collapse" data-parent="#accordion-one" href="#collapse-three">
+									Nuestra Promesa
+								</a>
+							</h3>
+						</div>
+						<div id="collapse-three" class="panel-collapse collapse">
+							<div class="panel-body">
+								Megasalud internacional se preocupa por recuperar sustancialmente la calidad de vida de los pacientes, innovando con productos naturales que lo equilibren, llevándolo a estado de curación sin daños colaterales o reacciones indeseadas, brindando una atención integral que les permita mejorar su estilo de vida.
+							</div>
+						</div>
+					</div>
+					<div class="panel panel-default">
+						<div class="panel-heading">
+							<h3 class="panel-title">
+								<a class="collapsed" data-toggle="collapse" data-parent="#accordion-one" href="#collapse-four">
+									¿Cómo es el tratamiento?
+								</a>
+							</h3>
+						</div>
+						<div id="collapse-four" class="panel-collapse collapse">
+							<div class="panel-body">
+								Megasalud desarrollo el método <a href="">Vranfcua</a>, que combina las propiedades terapéuticas de varios <a href="">hongos medicinales</a>, un aminoácido natural y la auto hemoterapia. Dando como resultado elevar el sistema inmunológico de nuestros pacientes dándoles la capacidad de responder ante las agresiones de la enfermedad que padece, el aminoácido se emplea para recobrar la flexibilidad de las arterias y tejidos, recobrando la motricidad de los pacientes, y la auto hemoterapia combate directamente a los antígenos que provocan el padecimiento creando una vacuna personalizada para cada paciente, creando una memoria genética y eliminando a los auto anticuerpos que atacan al paciente. <a href="">Conoce más del tratamiento</a>.
+							</div>
+						</div>
+					</div>
+					<div class="panel panel-default">
+						<div class="panel-heading">
+							<h3 class="panel-title">
+								<a class="collapsed" data-toggle="collapse" data-parent="#accordion-one" href="#collapse-five">
+									¿Para quién?
+								</a>
+							</h3>
+						</div>
+						<div id="collapse-five" class="panel-collapse collapse">
+							<div class="panel-body">
+								Nuestro método está dirigido a todos los pacientes que tienen comprometido su sistema inmunológico o algún <a href="">padecimiento autoinmune</a>, a quienes atendemos a través de nuestra <a href="">red de médicos</a> especializados y certificados en el tratamiento de <a href="">enfermedades autoinmunes</a>. <br>
+								También nos encargamos de ofrecer <a href="">productos naturales</a> que estimulan las defensas y aumentan la eficiencia del tratamiento, al formar parte de la dieta diaria. <br>
+								Si eres médico, Megasalud se preocupa por ofrecer <a href="">capacitación constante</a>, ya que estamos expandiendo nuestra <a href="">red de consultorios</a>, invitando a nuevos médicos a que sean parte de la familia Megasalud Internacional.
+							</div>
+						</div>
+					</div>
+				</div>                  
+			</div><!-- /.col-md-12 -->
 
-    </div><!-- /.row -->
-  </div><!-- /.container -->
+		</div><!-- /.row -->
+	</div><!-- /.container -->
 </section>  
 
 <?php include ('footer.php'); ?>
@@ -186,9 +192,9 @@
 <script src="assets/js/scriptsc81e.js?2"></script>
 <script src="assets/js/wow.min.js"></script>
 <script>
-  new WOW({
-    mobile:  false
-  }).init();
+	new WOW({
+		mobile:  false
+	}).init();
 </script>
 </body>
 

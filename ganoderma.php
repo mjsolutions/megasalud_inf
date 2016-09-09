@@ -5,9 +5,17 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="">
+  <meta name="description" content="El Hongo Ganoderma Lucidum, tiene una historia como Hierba Medicinal Superior desde hace más de 4,000 años en el Oriente. En épocas recientes se ha demostrado que el Ganoderma Lucidum es un hongo medicinal que por sus principios activos...">
   <meta name="keywords" content="">
   <meta name="author" content="Megasalud">
+
+  <!-- Metas Facebook -->
+  <meta property="og:url"  content="http://megasalud.com.mx/ganoderma.php" />
+  <meta property="og:title" content="Ganoderma Lucidum | El hongo de la vida" />.
+  <meta property="og:type" content="website" />
+  <meta property="og:description" content="El Hongo Ganoderma Lucidum, tiene una historia como Hierba Medicinal Superior desde hace más de 4,000 años en el Oriente. En épocas recientes se ha demostrado que el Ganoderma Lucidum es un hongo medicinal que por sus principios activos..." />
+  <meta property="og:keywords" content="Ganoderma lucidum, Megasalud Internacional, enfermedades autoinmunes, salud, bienestar" />
+  <meta property="og:image" content="http://megasalud.com.mx/assets/img/megasalud/ganoderma-facebook.jpg" />
 
   <title>Ganoderma Lucidum</title>
 

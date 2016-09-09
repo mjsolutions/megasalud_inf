@@ -240,7 +240,7 @@ style="z-index: 7; white-space: nowrap;">
     </div><!-- /.row -->
 
     <div class="text-center mb-80 mt-50">
-      <a class="waves-effect waves-light btn blue wow fadeIn" data-wow-delay=".2s">VER LISTA COMPLETA DE ENFERMEDADES</a>
+      <a href="enfermedades.php" class="waves-effect waves-light btn blue wow fadeIn" data-wow-delay=".2s">VER LISTA COMPLETA DE ENFERMEDADES</a>
     </div>
 
   </div><!-- /.container -->

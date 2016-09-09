@@ -67,7 +67,7 @@
             <div class="row">
               <div class="col-md-12">
                 <div class="input-field">
-                  <input id="website" type="text" name="website" class="validate" >
+                  <input id="website" type="text" name="subject" class="validate" >
                   <label for="website">Asunto</label>
                 </div>
               </div><!-- /.col-md-6 -->
@@ -78,8 +78,9 @@
               <label for="message">Mensaje</label>
             </div>
 
-            <button type="submit" name="submit" class="waves-effect waves-light btn green submit-button green mt-30">Enviar <i class="material-icons right">send</i></button>
+            <button type="submit" id="enviar" name="submit" class="waves-effect waves-light btn green submit-button green mt-30">Enviar <i class="material-icons right">send</i></button>
           </form>
+          <div id="resp"></div>
         </div><!-- /.col-md-8 -->
 
         <div class="col-md-4 contact-info wow fadeInUp" data-wow-delay=".5s">
@@ -191,6 +192,28 @@
                   infowindow.open(map, marker);
                 });
               }
+
+              $('form').submit(function(){
+                  //alert('enviado');
+                  $('#enviar').attr("disabled", "disabled");
+                  $.ajax({
+                    url:"sendmail.php",
+                    type: "POST",
+                    data: $(this).serialize(),
+                    success: function(data){
+                      $('#resp').html(data);
+                      $('#enviar').attr("disabled", false);
+                      $('form').each(function(){
+                        this.reset();
+                      });
+                    },
+                    error: function(data){
+                      $('#resp').html(data);
+                      $('#enviar').attr("disabled", false);
+                    }
+                  });
+                  return false;
+                });
 
             </script>
           </body>
