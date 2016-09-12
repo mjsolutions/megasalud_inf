@@ -2336,3 +2336,6 @@ blockquote.belleza {
 .widget_categories ul li a:hover {
     color: #fff;
 }
+.border-left-gray {
+    border-left: 1px solid #dadada;
+}

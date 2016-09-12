@@ -34,7 +34,7 @@
           </div>
 
         </div>
-        <div class="col-md-6 widget" style="border-left: 1px solid rgba(255, 255, 255, 0.3);">
+        <div class="col-md-6 widget border-left">
           <div class="fb-page pull-right col-md-9" data-href="https://www.facebook.com/MegasaludInt" data-tabs="timeline" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="false"><blockquote cite="https://www.facebook.com/MegasaludInt" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/MegasaludInt">Megasalud Internacional</a></blockquote></div>
         </div>
       </div><!-- /.row -->

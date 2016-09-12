@@ -64,7 +64,7 @@
       <h2 class="wow fadeInUp mt-50" data-wow-delay=".2s">¿Cuáles son algunos de estos componentes?</h2>
 
       <ul>
-      <li class="wow fadeInLeft" data-wow-delay=".4s"><i class="material-icons left txt-blue">&#xE5CA;</i> <strong>Germanio Orgánico:</strong> Este raro mineral ayuda a mejorar la circulación sanguínea, eliminar la fatiga, aumentar la energía, fortalecer el sistema inmunológico y desechar las toxinas.</li>
+        <li class="wow fadeInLeft" data-wow-delay=".4s"><i class="material-icons left txt-blue">&#xE5CA;</i> <strong>Germanio Orgánico:</strong> Este raro mineral ayuda a mejorar la circulación sanguínea, eliminar la fatiga, aumentar la energía, fortalecer el sistema inmunológico y desechar las toxinas.</li>
         <li class="wow fadeInLeft" data-wow-delay=".5s"><i class="material-icons left txt-blue">&#xE5CA;</i> <strong>La superóxido dismutasa (SOD):</strong> Eficaz para antioxidante, anti-radicales libres y anti-envejecimiento. Se ralentiza el envejecimiento de las células y promueve el rejuvenecimiento.</li>
         <li class="wow fadeInLeft" data-wow-delay=".6s"><i class="material-icons left txt-blue">&#xE5CA;</i> <strong>Polisacáridos:</strong> Reducir efectivamente los niveles de colesterol deseados, neutralizar las grasas, fortalecer el sistema inmunológico y eliminar las células cancerosas.</li>
         <li class="wow fadeInLeft" data-wow-delay=".7s"><i class="material-icons left txt-blue">&#xE5CA;</i> <strong>Triterpenos (sustancias amargas):</strong> También conocido como ácido Lingzhi. Ayuda a mejorar funciones gastro-intestinales, por antialérgico, antiinflamatorio y antitumoral.</li>
