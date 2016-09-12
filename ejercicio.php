@@ -9,6 +9,12 @@
   <meta name="keywords" content="">
   <meta name="author" content="Megasalud">
 
+  <!-- Metas Facebook -->
+  <meta property="og:url"  content="http://megasalud.com.mx/ejercicio.php" />
+  <meta property="og:title" content="Megasalud Internacional" />
+  <meta property="og:description" content="Si llevas una vida saludable estás menos propenso a sufir algun tipo de enfermedad además de producir numerosos beneficios para tu salud, tanto físicos como psicológicos" />
+  <meta property="og:image" content="http://megasalud.com.mx/assets/img/megasalud/ejercicio-megasalud.jpg" />
+
   <title>Ejercicio</title>
 
   <?php include ('head.php') ?>
@@ -76,7 +82,7 @@
           </div><!-- /.col-md-3 -->
 
           <div class="col-md-3">
-          <div class="featured-item feature-icon icon-hover icon-hover-pink icon-circle icon-outline border-right wow fadeIn" data-wow-delay="1s">
+            <div class="featured-item feature-icon icon-hover icon-hover-pink icon-circle icon-outline border-right wow fadeIn" data-wow-delay="1s">
               <div class="desc">
                 <h2>Los ejercicios de resistencia</h2>
                 <p>Aumentan el ritmo cardíaco y la respiración, con lo cual se ayuda al corazón, los pulmones y el sistema circulatorio, a trabajar de una manera mucho más sana y eficaz. Una persona que posee mayor resistencia física, también puede retrasar o prevenir muchas enfermedades asociadas al envejecimiento.</p>

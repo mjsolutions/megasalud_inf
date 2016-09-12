@@ -5,9 +5,15 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="">
+  <meta name="description" content="En Megasalud contamos con capacitación constante a través de eventos presenciales (cursos, diplomados, etc.) y múltiples recursos en línea, hoy tu puedes ser parte">
   <meta name="keywords" content="">
   <meta name="author" content="Megasalud">
+
+   <!-- Metas Facebook -->
+  <meta property="og:url"  content="http://megasalud.com.mx/medicos.php" />
+  <meta property="og:title" content="Médicos | Megasalud" />
+  <meta property="og:description" content="En Megasalud contamos con capacitación constante a través de eventos presenciales (cursos, diplomados, etc.) y múltiples recursos en línea, hoy tu puedes ser parte" />
+  <meta property="og:image" content="http://megasalud.com.mx/assets/img/megasalud/medicos-face.jpg" />
 
   <title>Médicos</title>
   <?php include ('head.php') ?>
@@ -37,14 +43,14 @@
       <div class="row">
         <div class="col-md-7 wow fadeInUp">
 
-          <p>En Megasalud nos interesa contar con médicos especializados en <strong><a href="">enfermedades autoinmunes</a></strong>, que puedan dar una alternativa natural, no invasiva y sin efectos secundarios a los pacientes de diabetes, cáncer, asma, vitíligo, artritis y demás padecimientos de tipo autoinmune que afectan a más del 30% de la población mexicana. </p>
+          <p>En Megasalud nos interesa contar con médicos especializados en <strong><a href="enfermedades.php">enfermedades autoinmunes</a></strong>, que puedan dar una alternativa natural, no invasiva y sin efectos secundarios a los pacientes de diabetes, cáncer, asma, vitíligo, artritis y demás padecimientos de tipo autoinmune que afectan a más del 30% de la población mexicana. </p>
 
           <p>Contamos con un tratamiento seguro, confiable y probado científicamente que mejora sustancialmente la calidad de vida de los pacientes.</p> 
 
 
-          <p>En Megasalud contamos con capacitación constante a través de eventos presenciales (cursos, diplomados, etc.) y múltiples recursos en línea, hoy tu puedes ser parte fundamental de este gran equipo y contribuir a mejorar la salud de muchos pacientes. ¿Te interesa unirte a nuestra red de médicos especializados certificados en el tratamiento de enfermedades autoinmunes?</p>
+          <p>En Megasalud contamos con capacitación constante a través de eventos presenciales (cursos, diplomados, etc.) y múltiples recursos en línea, hoy tu puedes ser parte fundamental de este gran equipo y contribuir a mejorar la salud de muchos pacientes. ¿Te interesa unirte a nuestra red de médicos especializados y certificados en el tratamiento de enfermedades autoinmunes?</p>
 
-          <a class="waves-effect waves-light btn green" href=""><i class="material-icons left">&#xE876;</i>Ser parte de Megasalud</a>
+          <a class="waves-effect waves-light btn green" href="contacto.php"><i class="material-icons left">&#xE876;</i>Ser parte de Megasalud</a>
         </div><!-- /.col-md-7 -->
 
         <div class="col-md-5 wow fadeInUp" data-wow-delay=".2s">
