@@ -96,13 +96,13 @@
 										<ul class="list-unstyled clearfix">
 											<li><a href="enfermedades.php">Enfermedades Autoinmunes</a></li>
 											<li><a href="">Diabetes</a></li>
-											<li><a href="">Cáncer</a></li>
+											<li><a href="cancer.php">Cáncer</a></li>
 										</ul>
 									</div>
 									<div class="col3">
 										<!-- <h2>Menu Type Page</h2> -->
 										<ul class="list-unstyled clearfix">
-											<li><a href="">Sida</a></li>
+											<li><a href="sida.php">Sida</a></li>
 											<li><a href="">Vitiligo</a></li>
 											<li><a href="">Asma</a></li>
 										</ul>
@@ -119,7 +119,7 @@
 										<!-- <h2>Menu Type Page</h2> -->
 										<ul class="list-unstyled clearfix">
 											<li><a href="">Psoriasis</a></li>
-											<li><a href="">Artritis</a></li>
+											<li><a href="artritis.php">Artritis</a></li>
 										</ul>
 									</div>
 
