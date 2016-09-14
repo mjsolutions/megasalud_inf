@@ -9,7 +9,7 @@
   <meta name="keywords" content="">
   <meta name="author" content="Megasalud">
 
-  <title></title>
+  <title>Artritis</title>
 
   <?php include ('head.php') ?>
 
@@ -83,9 +83,9 @@
 
                       <h2>Los síntomas articulares pueden abarcar:</h2>
                       <ul>
-                        <li><i class="material-icons left txt-blue">&#xE5CA;</i> La rigidez matutina que dura por más de una hora es común. Las articulaciones pueden sentirse calientes sensibles y rígidas cuando no se usan durante una hora.</li>
-                        <li><i class="material-icons left txt-blue">&#xE5CA;</i> El dolor articular a menudo s siente en la misma articulación en ambos lados del cuerpo.</li>
-                        <li><i class="material-icons left txt-blue">&#xE5CA;</i> Con el tiempo las articulaciones pueden perder su rango de movimiento y pueden volverse deformes.</li>
+                      <li><i class="material-icons left txt-blue">&#xE315;</i> La rigidez matutina que dura por más de una hora es común. Las articulaciones pueden sentirse calientes sensibles y rígidas cuando no se usan durante una hora.</li>
+                        <li><i class="material-icons left txt-blue">&#xE315;</i> El dolor articular a menudo s siente en la misma articulación en ambos lados del cuerpo.</li>
+                        <li><i class="material-icons left txt-blue">&#xE315;</i> Con el tiempo las articulaciones pueden perder su rango de movimiento y pueden volverse deformes.</li>
                       </ul> 
 
                     </div>
@@ -94,11 +94,11 @@
                       <h2>Otros síntomas abarcan:</h2>
 
                       <ul>
-                        <li><i class="material-icons left txt-blue">&#xE5CA;</i> Dolor torácico al respirar</li>
-                        <li><i class="material-icons left txt-blue">&#xE5CA;</i> Resequedad en ojos y boca</li>
-                        <li><i class="material-icons left txt-blue">&#xE5CA;</i> Ardor, prurito y secreción del ojo</li>
-                        <li><i class="material-icons left txt-blue">&#xE5CA;</i> Nódulos bajo la piel</li>
-                        <li><i class="material-icons left txt-blue">&#xE5CA;</i> Entumecimiento hormigueo o ardor en las manos y los pies.
+                      <li><i class="material-icons left txt-blue">&#xE315;</i> Dolor torácico al respirar</li>
+                        <li><i class="material-icons left txt-blue">&#xE315;</i> Resequedad en ojos y boca</li>
+                        <li><i class="material-icons left txt-blue">&#xE315;</i> Ardor, prurito y secreción del ojo</li>
+                        <li><i class="material-icons left txt-blue">&#xE315;</i> Nódulos bajo la piel</li>
+                        <li><i class="material-icons left txt-blue">&#xE315;</i> Entumecimiento hormigueo o ardor en las manos y los pies.
                         </li>
                       </ul> 
 
@@ -140,7 +140,7 @@
             <h2 class="wow fadeInUp" data-wow-delay=".2s">Otros exámenes que se pueden hacer son:</h2>
 
             <ul>
-            <li class="wow fadeInLeft" data-wow-delay=".3s"><i class="material-icons left txt-blue">&#xE5CA;</i> Proteína C reactiva</li>
+              <li class="wow fadeInLeft" data-wow-delay=".3s"><i class="material-icons left txt-blue">&#xE5CA;</i> Proteína C reactiva</li>
               <li class="wow fadeInLeft" data-wow-delay=".4s"><i class="material-icons left txt-blue">&#xE5CA;</i> Conteo sanguíneo completo</li>
               <li class="wow fadeInLeft" data-wow-delay=".5s"><i class="material-icons left txt-blue">&#xE5CA;</i> Tasa de sedimentación globular</li>
               <li class="wow fadeInLeft" data-wow-delay=".6s"><i class="material-icons left txt-blue">&#xE5CA;</i> Radiografías de las articulaciones</li>
@@ -155,7 +155,7 @@
 
       <div class="row mt-30">
         <div class="container">
-          
+
           <h2 class="wow fadeInLeft" data-wow-delay=".2s">Tratamiento</h2>
 
           <p class="wow fadeInRight" data-wow-delay=".3s">La artritis reumatoide generalmente requiere tratamiento que incluye medicamentos, fisioterapia, ejercicio, educación y en casos extremos cirugía. El tratamiento agresivo y oportuno para este tipo de artritis puede retardar la destrucción de la articulación.</p>
@@ -166,9 +166,9 @@
       </div><!-- row -->
 
       <div class="row mt-30">
-        
+
         <div class="container">
-          
+
           <h2 class="wow fadeInLeft" data-wow-delay=".2s">Nuestro tratamiento</h2>
 
           <p class="wow fadeInRight" data-wow-delay=".3s">Megasalud ha desarrollado un <strong><a href="tratamiento.php">tratamiento natural</a></strong>, NO invasivo y sin efectos secundarios que puede contribuir a curar o controlar la artritis reumatoide, según el caso, mejorando considerablemente la calidad de vida del paciente, ya que este tratamiento está enfocado a reestructurar la base inmunológica afectada que provoca la Artritis Reumatoide, por medio de la extracción de los defectos inmunológicos que están provocando dicha patología. <strong><a href="tratamiento.php">Conócelo</a></strong>.</p>
