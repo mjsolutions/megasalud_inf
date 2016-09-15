@@ -95,7 +95,7 @@
 										<!-- <h2>Menu Type Page</h2> -->
 										<ul class="list-unstyled clearfix">
 											<li><a href="enfermedades.php">Enfermedades Autoinmunes</a></li>
-											<li><a href="">Diabetes</a></li>
+											<li><a href="diabetes.php">Diabetes</a></li>
 											<li><a href="cancer.php">Cáncer</a></li>
 										</ul>
 									</div>
