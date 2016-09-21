@@ -50,7 +50,7 @@
 
         <div class="col-md-9 wow fadeInLeft" data-wow-delay=".3s">
 
-          <p>Estudios médicos modernos ha comprobado que el <strong>Ganoderma Lucidum</strong> tiene una amplia variedad de beneficios. Tiene una singular composición química que le otorga un alto valor medicinal, especialmente en lo que se refiere al fortalecimiento del sistema inmunológico a través de la regulación de las funciones básicas del organismo, esto es, ayuda a regular varios sistemas del cuerpo, mantener la estabilidad y garantizar un equilibrio.</p>
+          <p>Estudios médicos modernos ha comprobado que el <strong><a href="ganoderma.php">Ganoderma Lucidum</a></strong> tiene una amplia variedad de beneficios. Tiene una singular composición química que le otorga un alto valor medicinal, especialmente en lo que se refiere al fortalecimiento del sistema inmunológico a través de la regulación de las funciones básicas del organismo, esto es, ayuda a regular varios sistemas del cuerpo, mantener la estabilidad y garantizar un equilibrio.</p>
 
         </div><!-- /.col-md-7 -->  
 
@@ -109,7 +109,7 @@
       
       <div class="clearfix"></div>
 
-      <p>Los resultados científicos resultantes de una amplia investigación sobre <strong>Ganoderma Lucidum</strong> llevado a cabo en los últimos 40 años han indicado que Ganoderma Lucidum es capaz de generar beneficios generales de salud en el cuerpo humano.</p>
+      <p>Los resultados científicos resultantes de una amplia investigación sobre <strong><a href="ganoderma.php">Ganoderma Lucidum</a></strong> llevado a cabo en los últimos 40 años han indicado que <a href="ganoderma.php">Ganoderma Lucidum</a> es capaz de generar beneficios generales de salud en el cuerpo humano.</p>
 
     </div>
 

@@ -83,7 +83,7 @@
 
       <div class="text-center mtb-50 wow fadeInUp" data-wow-delay=".4s">
         <p>Se pueden atender casos especiales fuera de este horario, previa cita.</p>
-        <p>Si no tenemos visitas programadas a tu ciudad, con un grupo de 15 pacientes podemos agendar una fecha especial. <a href="">Contáctanos</a> para más información.</p>
+        <p>Si no tenemos visitas programadas a tu ciudad, con un grupo de 15 pacientes podemos agendar una fecha especial. <a href="contacto.php">Contáctanos</a> para más información.</p>
       </div>
 
     </div><!-- /.container -->

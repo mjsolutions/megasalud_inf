@@ -45,7 +45,7 @@
 
         <div class="col-md-8 wow fadeInLeft" data-wow-delay=".3s">
 
-          <p>El Reyshen es el extracto del hongo <strong><a href="">Ganoderma Lucidum</a></strong> (conocido como Reishi en Japón, Ling-Zhi en China o Charakani para los purépechas ), mismo que ha sido ampliamente estudiado y cuyos beneficios se han comprobado científicamente. Los estudios médicos modernos ha comprobado que tiene una singular composición química que le otorga un alto valor medicinal, especialmente en lo que se refiere al fortalecimiento del sistema inmunológico a través de la regulación de las funciones básicas del organismo, esto es, ayuda a regular varios sistemas del cuerpo, mantener la estabilidad y garantizar un equilibrio.</p>
+          <p>El Reyshen es el extracto del hongo <strong><a href="ganoderma.php">Ganoderma Lucidum</a></strong> (conocido como Reishi en Japón, Ling-Zhi en China o Charakani para los purépechas ), mismo que ha sido ampliamente estudiado y cuyos beneficios se han comprobado científicamente. Los estudios médicos modernos ha comprobado que tiene una singular composición química que le otorga un alto valor medicinal, especialmente en lo que se refiere al fortalecimiento del sistema inmunológico a través de la regulación de las funciones básicas del organismo, esto es, ayuda a regular varios sistemas del cuerpo, mantener la estabilidad y garantizar un equilibrio.</p>
 
           <p class="wow fadeInUp" data-wow-delay=".4s">Los científicos encontraron que los componentes activos del Ganoderma Lucidum pueden:</p>
 

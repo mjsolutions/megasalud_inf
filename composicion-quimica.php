@@ -50,7 +50,7 @@
 
         <div class="col-md-9 wow fadeInLeft" data-wow-delay=".3s">
 
-          <p>El <strong>Ganoderma Lucidum</strong> es un hongo de la familia de los Micetos.</p>
+          <p>El <strong><a href="ganoderma.php">Ganoderma Lucidum</a></strong> es un hongo de la familia de los Micetos.</p>
           <p>Tiene una singular composición química que le otorga un alto valor medicinal, especialmente en lo que se refiere al fortalecimiento del sistema inmunológico a través de la regulación de las funciones básicas del organismo.</p>
 
         </div><!-- /.col-md-7 -->  
@@ -71,7 +71,7 @@
         <li class="wow fadeInLeft" data-wow-delay=".8s"><i class="material-icons left txt-blue">&#xE5CA;</i> <strong>Monofosfato de adenosina (AMP):</strong> Puede disolver el trombo y elimine la obstrucción de los vasos sanguíneos. Excelente para mejorar la condición de la presión arterial alta, derrame cerebral, bloqueo de los vasos del corazón y entumecimiento.</li>
       </ul>  
       
-      <p>Cada uno de estos componentes activos tiene beneficios en el apoyo a las funciones del cuerpo que mejoran la salud. Pero es la combinación de estas sustancias lo que da al Ganoderma Lucidum sus increíbles valores medicinales.</p>
+      <p>Cada uno de estos componentes activos tiene beneficios en el apoyo a las funciones del cuerpo que mejoran la salud. Pero es la combinación de estas sustancias lo que da al <strong><a href="ganoderma.php">Ganoderma Lucidum</a></strong> sus increíbles valores medicinales.</p>
 
     </div>
 

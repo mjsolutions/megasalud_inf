@@ -47,7 +47,7 @@
 
           <p>Es uno de los aminoácidos que forman las proteínas de los seres vivos, es el más pequeño y simple y es considerado como no esencial.</p>
 
-          <p>Es utilizado como precursor de la hemoglobina y es un neurotransmisor inhibidor en el sistema nervioso central, especialmente en la medula espinal, tallo cerebral y retina, también es utilizado como medio gástrico para inhibir la glicosilación no enzimática de las proteínas y para sintetizar un gran número de sustancias mas (véase manual de Glicina)</p>
+          <p>Es utilizado como precursor de la hemoglobina y es un neurotransmisor inhibidor en el sistema nervioso central, especialmente en la medula espinal, tallo cerebral y retina, también es utilizado como medio gástrico para inhibir la glicosilación no enzimática de las proteínas y para sintetizar un gran número de sustancias mas</p>
 
         </div><!-- /.col-md-7 -->
 

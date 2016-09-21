@@ -42,7 +42,7 @@
       <div class="row">
         <div class="col-md-7 wow fadeInRight" data-wow-delay=".3s">
 
-          <p>La realidad es que el ritmo de vida acelerado ha disminuido la calidad de la alimentación de toda la familia, dejando serias deficiencias alimenticias, por lo que el primer paso es conocer los tipos de alimentos y las proporciones en que debemos comerlos para tener una dieta equilibrada. El segundo paso es aprovechar los beneficios de los alimentos funcionales (nutracéuticos), como los <strong><a href="">productos</a></strong> de Megasalud, que contienen extracto de <strong><a href="">Ganoderma Lucidum</a></strong>, que nos ayudan a equilibrar las funciones del organismo. Según los nutricionistas:</p>
+          <p>La realidad es que el ritmo de vida acelerado ha disminuido la calidad de la alimentación de toda la familia, dejando serias deficiencias alimenticias, por lo que el primer paso es conocer los tipos de alimentos y las proporciones en que debemos comerlos para tener una dieta equilibrada. El segundo paso es aprovechar los beneficios de los alimentos funcionales (nutracéuticos), como los <strong><a href="">productos</a></strong> de Megasalud, que contienen extracto de <strong><a href="ganoderma.php">Ganoderma Lucidum</a></strong>, que nos ayudan a equilibrar las funciones del organismo. Según los nutricionistas:</p>
 
           <ul>
             <li><i class="material-icons left txt-blue">&#xE5CA;</i> Los alimentos considerados energéticos contribuyen a proporcionar energía al organismo ya que son ricos en carbohidratos y grasas. Ej.: pan, pastas, cereales, azúcares en todas sus versiones (pan, postres, etc.), legumbres así como los aceites.</li>
@@ -72,7 +72,7 @@
 
         <div class="col-md-7 wow fadeInLeft" data-wow-delay=".3s">
 
-          <p>Complementa tu dieta con los alimentos funcionales (nutracéuticos), que gracias a sus componentes, proveen beneficios a la salud más allá de la nutrición básica, es decir, producen un impacto favorable, clínicamente probado sobre el organismo. Entre sus principales características están sus cualidades nutritivas, benéficas para diversas funciones del organismo, mejoran el estado de salud, previenen o disminuyen el riesgo de contraer enfermedades y su consumo no genera efectos nocivos. Entre este tipo de alimentos, destaca el <strong><a href="">Ganoderma Lucidum</a></strong>, cuyas propiedades brindan beneficios a todas las personas, preventivos y de fortalecimiento a personas sanas, -niños y adultos- y contribuyen al mejoramiento de múltiples padecimientos de personas enfermas. <br> <strong><a href="">¿Cómo se usa?</a></strong></p>
+          <p>Complementa tu dieta con los alimentos funcionales (nutracéuticos), que gracias a sus componentes, proveen beneficios a la salud más allá de la nutrición básica, es decir, producen un impacto favorable, clínicamente probado sobre el organismo. Entre sus principales características están sus cualidades nutritivas, benéficas para diversas funciones del organismo, mejoran el estado de salud, previenen o disminuyen el riesgo de contraer enfermedades y su consumo no genera efectos nocivos. Entre este tipo de alimentos, destaca el <strong><a href="ganoderma.php">Ganoderma Lucidum</a></strong>, cuyas propiedades brindan beneficios a todas las personas, preventivos y de fortalecimiento a personas sanas, -niños y adultos- y contribuyen al mejoramiento de múltiples padecimientos de personas enfermas. <br> <strong><a href="uso.php">¿Cómo se usa?</a></strong></p>
 
         </div><!-- /.col-md-7 -->        
 

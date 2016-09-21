@@ -112,13 +112,13 @@
 										<ul class="list-unstyled clearfix">
 											<li><a href="asma-infantil.php">Asma Infantil</a></li>
 											<li><a href="lupus.php">Lupus</a></li>
-											<li><a href="">Esclerodermia</a></li>
+											<li><a href="esclerodermia.php">Esclerodermia</a></li>
 										</ul>
 									</div>
 									<div class="col3">
 										<!-- <h2>Menu Type Page</h2> -->
 										<ul class="list-unstyled clearfix">
-											<li><a href="">Psoriasis</a></li>
+											<li><a href="psoriasis.php">Psoriasis</a></li>
 											<li><a href="artritis.php">Artritis</a></li>
 										</ul>
 									</div>

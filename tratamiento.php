@@ -42,14 +42,14 @@
       <div class="row">
         <div class="col-md-7 wow fadeInRight" data-wow-delay=".3s">
 
-          <p>Las <strong><a href="">enfermedades autoinmunes</a></strong> pueden tratarse con varios métodos, es importante conocer y comparar las opciones antes de elegir.</p>
+          <p>Las <strong><a href="enfermedades.php">enfermedades autoinmunes</a></strong> pueden tratarse con varios métodos, es importante conocer y comparar las opciones antes de elegir.</p>
 
           <p>Los factores a tomar en cuenta son: cómo se administra, qué costo tiene, con qué frecuencia debe utilizarse, qué tan invasivo resulta, qué probabilidades de éxito ofrece, quién lo ha probado y qué resultados ha obtenido y lo más importante, que efectos secundarios tiene. La valoración de estos aspectos es de vital importancia, ya que repercutirá en la expectativa y calidad de vida, no sólo en términos de salud, sino económicos y de impacto en la familia.</p>
 
           <p>En la actualidad la ciencia ha avanzado mucho y hay alternativas basadas en tratamientos naturales que resultan una excelente opción, que en casos como el cáncer pueden evitar la quimioterapia o radioterapia, que resulta muy agresiva para el organismo y en otros como la diabetes, pueden ayudar al paciente a llevar una vida normal sin esclavizarse a costosos medicamentos. 
           </p>
 
-          <p><strong>Megasalud</strong> ha desarrollado un tratamiento natural de este tipo, basado en las propiedades del hongo <strong><a href="">"Ganoderma Lucidum"</a></strong> que, aunado a una hemovacuna personalizada, ofrece excelentes resultados a pacientes de <strong><a href="">enfermedades autoinmunes</a></strong> como el cáncer, diabetes, asma, artritis, lupus, etc. </p>
+          <p><strong>Megasalud</strong> ha desarrollado un tratamiento natural de este tipo, basado en las propiedades del hongo <strong><a href="ganoderma.php">"Ganoderma Lucidum"</a></strong> que, aunado a una hemovacuna personalizada, ofrece excelentes resultados a pacientes de <strong><a href="enfermedades.php">enfermedades autoinmunes</a></strong> como el cáncer, diabetes, asma, artritis, lupus, etc. </p>
 
         </div><!-- /.col-md-7 -->
 

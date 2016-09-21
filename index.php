@@ -87,7 +87,7 @@
     data-splitout="none" 
     data-responsive_offset="on"
     style="z-index: 7; white-space: nowrap;">
-    <a href="#" class="btn btn-lg  waves-effect waves-light">Conoce más</a>
+    <a href="tratamiento.php" class="btn btn-lg  waves-effect waves-light">Conoce más</a>
   </div>
 
 </li>
@@ -156,7 +156,7 @@ data-splitin="none"
 data-splitout="none" 
 data-responsive_offset="on"
 style="z-index: 7; white-space: nowrap;">
-<a href="#" class="btn btn-lg  waves-effect waves-light">Conoce más</a>
+<a href="tratamiento.php" class="btn btn-lg  waves-effect waves-light">Conoce más</a>
 </div>
 
 </li>
@@ -184,7 +184,7 @@ style="z-index: 7; white-space: nowrap;">
               <div class="desc wow fadeInLeft" data-wow-delay=".4s">
                 <h2>DIABETES</h2>
                 <p>La Diabetes Mellitus es una enfermedad metabólica en la que se ve comprometida la secreción de insulina...</p>
-                <a href="#" class="waves-effect waves-red btn-flat red-text">Conoce más</a>
+                <a href="diabetes.php" class="waves-effect waves-red btn-flat red-text">Conoce más</a>
               </div>
             </div><!-- /.featured-item -->
           </li>
@@ -193,7 +193,7 @@ style="z-index: 7; white-space: nowrap;">
               <div class="desc wow fadeInDown" data-wow-delay=".4s">
                 <h2>CÁNCER</h2>
                 <p>El cáncer comienza cuando las células crecen descontroladamente sobrepasando a las celulas normales, lo cual dificulta...</p>
-                <a href="#" class="waves-effect waves-red btn-flat red-text">Conoce más</a>
+                <a href="cancer.php" class="waves-effect waves-red btn-flat red-text">Conoce más</a>
               </div>
             </div><!-- /.featured-item -->
           </li>
@@ -202,7 +202,7 @@ style="z-index: 7; white-space: nowrap;">
               <div class="desc wow fadeInRight" data-wow-delay=".4s">
                 <h2>ASMA</h2>
                 <p>El asma es un trastorno inflamatorio de las vías respiratorias que causa ataques de sibilancias, dificultad para respirar...</p>
-                <a href="#" class="waves-effect waves-red btn-flat red-text">Conoce más</a>
+                <a href="asma.php" class="waves-effect waves-red btn-flat red-text">Conoce más</a>
               </div>
             </div><!-- /.featured-item -->
           </li>
@@ -211,7 +211,7 @@ style="z-index: 7; white-space: nowrap;">
               <div class="desc wow fadeInLeft" data-wow-delay=".4s">
                 <h2>ARTRITIS</h2>
                 <p>La artritis reumatoidea es una enfermedad crónica que lleva a la inflamación de las articulaciones...</p>
-                <a href="#" class="waves-effect waves-red btn-flat red-text">Conoce más</a>
+                <a href="artritis.php" class="waves-effect waves-red btn-flat red-text">Conoce más</a>
               </div>
             </div><!-- /.featured-item -->
           </li>
@@ -220,7 +220,7 @@ style="z-index: 7; white-space: nowrap;">
               <div class="desc wow fadeInUp" data-wow-delay=".4s">
                 <h2>VITILIGO</h2>
                 <p>El vitíligo es una enfermedad degenerativa de la piel en la que los melanocitos (las células responsables de...</p>
-                <a href="#" class="waves-effect waves-red btn-flat red-text">Conoce más</a>
+                <a href="vitiligo.php" class="waves-effect waves-red btn-flat red-text">Conoce más</a>
               </div>
             </div><!-- /.featured-item -->
           </li>
@@ -229,7 +229,7 @@ style="z-index: 7; white-space: nowrap;">
               <div class="desc wow fadeInRight" data-wow-delay=".4s">
                 <h2>LUPUS</h2>
                 <p>El Lupus es un trastorno autoinmunitario crónico que puede afectar la piel, las articulaciones, los...</p>
-                <a href="#" class="waves-effect waves-red btn-flat red-text">Conoce más</a>
+                <a href="lupus.php" class="waves-effect waves-red btn-flat red-text">Conoce más</a>
               </div>
             </div><!-- /.featured-item -->
           </li>

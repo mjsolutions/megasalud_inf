@@ -146,7 +146,7 @@
 						</div>
 						<div id="collapse-four" class="panel-collapse collapse">
 							<div class="panel-body">
-								Megasalud desarrollo el método <a href="">Vranfcua</a>, que combina las propiedades terapéuticas de varios <a href="">hongos medicinales</a>, un aminoácido natural y la auto hemoterapia. Dando como resultado elevar el sistema inmunológico de nuestros pacientes dándoles la capacidad de responder ante las agresiones de la enfermedad que padece, el aminoácido se emplea para recobrar la flexibilidad de las arterias y tejidos, recobrando la motricidad de los pacientes, y la auto hemoterapia combate directamente a los antígenos que provocan el padecimiento creando una vacuna personalizada para cada paciente, creando una memoria genética y eliminando a los auto anticuerpos que atacan al paciente. <a href="">Conoce más del tratamiento</a>.
+								Megasalud desarrollo el método <a href="tratamiento.php">Vranfcua</a>, que combina las propiedades terapéuticas de varios <a href="ganoderma.php">hongos medicinales</a>, un aminoácido natural y la auto hemoterapia. Dando como resultado elevar el sistema inmunológico de nuestros pacientes dándoles la capacidad de responder ante las agresiones de la enfermedad que padece, el aminoácido se emplea para recobrar la flexibilidad de las arterias y tejidos, recobrando la motricidad de los pacientes, y la auto hemoterapia combate directamente a los antígenos que provocan el padecimiento creando una vacuna personalizada para cada paciente, creando una memoria genética y eliminando a los auto anticuerpos que atacan al paciente. <a href="tratamiento.php">Conoce más del tratamiento</a>.
 							</div>
 						</div>
 					</div>
@@ -160,9 +160,9 @@
 						</div>
 						<div id="collapse-five" class="panel-collapse collapse">
 							<div class="panel-body">
-								Nuestro método está dirigido a todos los pacientes que tienen comprometido su sistema inmunológico o algún <a href="">padecimiento autoinmune</a>, a quienes atendemos a través de nuestra <a href="">red de médicos</a> especializados y certificados en el tratamiento de <a href="">enfermedades autoinmunes</a>. <br>
-								También nos encargamos de ofrecer <a href="">productos naturales</a> que estimulan las defensas y aumentan la eficiencia del tratamiento, al formar parte de la dieta diaria. <br>
-								Si eres médico, Megasalud se preocupa por ofrecer <a href="">capacitación constante</a>, ya que estamos expandiendo nuestra <a href="">red de consultorios</a>, invitando a nuevos médicos a que sean parte de la familia Megasalud Internacional.
+								Nuestro método está dirigido a todos los pacientes que tienen comprometido su sistema inmunológico o algún <a href="enfermedades.php">padecimiento autoinmune</a>, a quienes atendemos a través de nuestra <a href="red-de-consultorios.php">red de médicos</a> especializados y certificados en el tratamiento de <a href="enfermedades.php">enfermedades autoinmunes</a>. <br>
+								También nos encargamos de ofrecer <a href="tienda.php">productos naturales</a> que estimulan las defensas y aumentan la eficiencia del tratamiento, al formar parte de la dieta diaria. <br>
+								Si eres médico, Megasalud se preocupa por ofrecer <strong>capacitación constante</strong>, ya que estamos expandiendo nuestra <a href="red-de-consultorios.php">red de consultorios</a>, invitando a nuevos médicos a que sean parte de la familia Megasalud Internacional.
 							</div>
 						</div>
 					</div>

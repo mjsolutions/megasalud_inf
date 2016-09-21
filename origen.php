@@ -54,7 +54,7 @@
 
           <p>El doctor Shi-Jean Lee, el más famoso doctor en medicina durante la Dinastía Ming, escribió en su famoso libro "Ban Chao Gang Moo" ("La Gran Farmacopea") que tomar continuamente Reishi (Lingzhi) construirá un cuerpo fuerte y saludable y asegurará larga vida. Se clasifica como número uno de los medicamentos superiores, y, por tanto, de los más excelsos de la medicina en la antigüedad. </p>
 
-          <p>Durante décadas se han llevado a cabo <strong><a href="">estudios científicos</a></strong> para comprobar su efectividad. </p>
+          <p>Durante décadas se han llevado a cabo <strong><a href="estudios-cientificos.php">estudios científicos</a></strong> para comprobar su efectividad. </p>
 
         </div><!-- /.col-md-7 -->  
 
