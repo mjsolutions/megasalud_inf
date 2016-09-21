@@ -9,26 +9,27 @@
   <meta name="keywords" content="">
   <meta name="author" content="Megasalud">
 
-  <title>Enfermedades</title>
+  <title>Esclerodermia</title>
 
   <?php include ('head.php') ?>
 
+  <!--page title start-->
   <section class="page-title parallax-bg page-title-bg overlay dark-5 padding-top-140 padding-bottom-150" data-stellar-background-ratio="0.5">
     <div class="container">
       <div class="row">
         <div class="col-md-12">
-          <h2 class="white-text">DIABETES MELLITUS</h2>
-          <!-- <span class="white-text">Conoce un poco de nosotros</span> -->
+          <h2 class="white-text">ESCLERODERMIA</h2>
+          <span class="white-text">Enfermedades autoinmunes</span>
           <ol class="breadcrumb">
             <li><a href="index.php">Home</a></li>
-            <!-- <li><a href="#">Shortcodes</a></li> -->
             <li><a href="enfermedades.php">Enfermedades autoinmunes</a></li>
-            <li class="active">Diabetes</li>
+            <li class="active">Esclerodermia</li>
           </ol>
         </div>
       </div>
     </div>
   </section>
+  <!--page title end-->
 
 
   <!-- Content init -->
@@ -47,19 +48,10 @@
         </div><!-- /.col-md-12 -->
       </div><!-- /.row -->
     </div><!-- /.container -->
-  </section>
-  <!-- Content end -->
 
-  <!-- Content init -->
-  <section class="section-padding">
     <div class="container">
       <div class="row">
-      <div class="row wow fadeInUp" data-wow-delay=".2s">
-        <div class="text-center mb-80">
-          <h2 class="section-title text-capitalize">Nuestro tratamiento</h2>
-          <p class="section-sub">Megasalud ha desarrollado un tratamiento natural, NO invasivo y sin efectos secundarios que puede contribuir a curar o controlar la esclerodermia, según el caso, mejorando considerablemente la calidad de vida del paciente. Nuestro tratamiento se ajusta a los defectos inmunológicos de cada paciente en particular y dicho tratamiento consta de varios elementos que, juntos, interactúan en el sistema inmunológico al reestructurarlo y por consecuencia, generando una mejora clínica y bioquímica en el paciente. Conócelo</p>
-        </div>
-      </div><!-- /.row -->
+
         <div class="col-md-6 mb-sm-50">
           <h2 class="text-uppercase mb-30">Síntomas de la enfermedad</h2>
           <div class="panel-group flat-accordion brand-accordion z-depth-1" id="flat-one">
@@ -218,7 +210,17 @@
         </div><!-- /.col-md-6 -->
       </div><!-- /.row -->
     </div><!-- /.container -->
+
+    <div class="container mt-50">
+
+      <h2 class="wow fadeInUp" data-wow-delay=".2s">Nuestro tratamiento</h2>
+
+      <p class="wow fadeInRight" data-wow-delay=".3s"><strong>Megasalud</strong> ha desarrollado un <strong><a href="tratamiento.php">tratamiento natural</a></strong>, NO invasivo y sin efectos secundarios que puede contribuir a curar o controlar la esclerodermia, según el caso, mejorando considerablemente la calidad de vida del paciente. Nuestro tratamiento se ajusta a los defectos inmunológicos de cada paciente en particular y dicho tratamiento consta de varios elementos que, juntos, interactúan en el sistema inmunológico al reestructurarlo y por consecuencia, generando una mejora clínica y bioquímica en el paciente. <strong><a href="tratamiento.php">Conócelo</a></strong></a></strong> </p>
+
+    </div>
   </section>
+  <!-- Content end -->
+
 
   <?php include ('footer.php'); ?>
 

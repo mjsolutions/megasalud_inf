@@ -64,10 +64,10 @@
                   <p>En las personas sensibles, los síntomas de asma pueden desencadenar por la inhalación de sustancias causante de alergia, llamadas alérgenos o desencadenantes.</p>
 
                   <div class="col-md-12">
-                    
+
                     <h2>Los desencadenantes comunes de asma abarcan:</h2>
                     <div class="col-md-6">
-
+                        
                       <ul>
                         <li><i class="material-icons left txt-blue">&#xE315;</i> Polvo</li>
                         <li><i class="material-icons left txt-blue">&#xE315;</i> Cambios en el clima</li>
