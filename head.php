@@ -104,14 +104,14 @@
 										<ul class="list-unstyled clearfix">
 											<li><a href="sida.php">Sida</a></li>
 											<li><a href="vitiligo.php">Vitiligo</a></li>
-											<li><a href="">Asma</a></li>
+											<li><a href="asma.php">Asma</a></li>
 										</ul>
 									</div>
 									<div class="col3">
 										<!-- <h2>Menu Type Page</h2> -->
 										<ul class="list-unstyled clearfix">
-											<li><a href="">Asma Infantil</a></li>
-											<li><a href="">Lupus</a></li>
+											<li><a href="asma-infantil.php">Asma Infantil</a></li>
+											<li><a href="lupus.php">Lupus</a></li>
 											<li><a href="">Esclerodermia</a></li>
 										</ul>
 									</div>
