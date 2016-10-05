@@ -46,7 +46,7 @@
       <hr class="mb-20">
       <div class="row">
         <div class="col-md-9">
-          <span class="copy-text">Copyright &copy; <?php echo date('Y') ?> <a href="#">Megasalud Internacional</a> &nbsp; | &nbsp;  Todos los derechos reservados &nbsp; | &nbsp;  Designed By <a href="#"></a></span>
+          <span class="copy-text">Copyright &copy; <?php echo date('Y') ?> <a href="#">Megasalud Internacional</a> &nbsp; | &nbsp;  Todos los derechos reservados<a href="#"></a></span>
         </div><!-- /.col-md-6 -->
         <div class="col-md-2" id="google_translate_element"></div>
         <div class="col-md-1">

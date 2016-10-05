@@ -70,8 +70,8 @@
               <p>Col. Cuahutemoc</p>
               <p>Del. Cuahutemoc </p>
               <p><strong>Telèfonos</strong></p>
-              <p>(557) 021 90 92</p>
-              <p>(552) 115 85 72</p>
+              <p>(55) 31 02 16 99</p>
+              <p>(55) 66 16 02 13</p>
               <p><strong>Horario de Atención</strong></p>
               <p>Lunes a Viernes 9:00 a 19:00 hrs.</p>
               <p>Sábado: 10:00 a 14:00 hrs.</p>
